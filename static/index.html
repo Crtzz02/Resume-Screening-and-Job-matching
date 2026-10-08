@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>FieldMatch — Resume to Career Field</title>
+  <link rel="preconnect" href="https://api.fontshare.com" crossorigin />
+  <link href="https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@400,500,700,800&f[]=satoshi@400,500,700,900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/styles.css?v=neo-1" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/">
+      <span class="brand-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="20" height="20"><path d="M13 2 4 14h7l-1 8 9-12h-7l1-8z" fill="currentColor" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>
+      </span>
+      FieldMatch
+    </a>
+    <nav>
+      <a href="#scan">Scan</a>
+      <a href="#batch">Recruiter</a>
+      <a href="#how">How it works</a>
+      <a href="#catalog">Fields</a>
+      <a href="/docs" target="_blank" rel="noopener">API</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="scan">
+      <div class="hero-copy">
+        <p class="brand-mark">Field<span class="outline">Match</span></p>
+        <h1>Find the career field your resume already points to.</h1>
+        <p class="lede">
+          Upload a resume. We score it against curated job fields with the same
+          TF-IDF, semantic embeddings, and NER stack — then rank the best fits.
+        </p>
+        <div class="cta-row">
+          <label class="btn primary" for="file-input">Upload resume</label>
+          <button type="button" class="btn ghost" id="paste-toggle">Paste text instead</button>
+        </div>
+        <p class="hint">Accepts .txt, .pdf, .docx · hybrid match by default</p>
+      </div>
+
+      <div class="hero-panel" id="workbench">
+        <form id="scan-form">
+          <input type="file" id="file-input" accept=".txt,.pdf,.docx,text/plain,application/pdf,application/vnd.openxmlformats-officedocument.wordprocessingml.document" hidden />
+
+          <div class="dropzone" id="dropzone" tabindex="0" role="button" aria-label="Drop resume file here">
+            <strong id="file-label">Drop resume here</strong>
+            <span>or click Upload resume</span>
+          </div>
+
+          <div class="paste-block hidden" id="paste-block">
+            <label for="resume-text">Resume text</label>
+            <textarea id="resume-text" rows="8" placeholder="Paste the full resume text…"></textarea>
+          </div>
+
+          <div class="controls">
+            <label class="field">
+              <span>Engine</span>
+              <select id="mode">
+                <option value="hybrid" selected>Hybrid (recommended)</option>
+                <option value="tfidf">TF-IDF keywords</option>
+                <option value="semantic">Semantic embeddings</option>
+              </select>
+            </label>
+            <button type="submit" class="btn primary wide" id="submit-btn">Scan &amp; rank fields</button>
+          </div>
+          <p class="status" id="status" role="status"></p>
+        </form>
+      </div>
+    </section>
+
+    <section class="results hidden" id="results" aria-live="polite">
+      <div class="results-head">
+        <h2>Best field match</h2>
+        <p id="results-meta"></p>
+      </div>
+      <div class="best-grid" id="best-match"></div>
+
+      <h3>Engine comparison</h3>
+      <p class="section-lede" style="margin-top:0.35rem">TF-IDF (keywords) vs Semantic (SBERT/MiniLM) vs Hybrid — why not keywords alone.</p>
+      <div id="score-comparison"></div>
+
+      <h3>Recommended jobs</h3>
+      <p class="section-lede" style="margin-top:0.35rem">Real job titles from your JD dataset, ranked under the top matching fields.</p>
+      <div class="job-list" id="job-list"></div>
+
+      <h3>Full field ranking</h3>
+      <div class="rank-list" id="rank-list"></div>
+      <div class="entity-block" id="entity-block"></div>
+    </section>
+
+    <section class="batch" id="batch">
+      <h2>Recruiter batch screen</h2>
+      <p class="section-lede">
+        Upload many resumes and rank them against one career field or a pasted job description —
+        the problem statement’s “hundreds of resumes” workflow.
+      </p>
+
+      <div class="batch-panel">
+        <form id="batch-form">
+          <div class="controls" style="margin-top:0">
+            <label class="field">
+              <span>Target</span>
+              <select id="batch-target-type">
+                <option value="field" selected>Career field</option>
+                <option value="jd">Paste job description</option>
+              </select>
+            </label>
+            <label class="field" id="batch-field-wrap">
+              <span>Field</span>
+              <select id="batch-field"></select>
+            </label>
+            <label class="field">
+              <span>Engine</span>
+              <select id="batch-mode">
+                <option value="hybrid" selected>Hybrid</option>
+                <option value="tfidf">TF-IDF</option>
+                <option value="semantic">Semantic</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="paste-block hidden" id="batch-jd-wrap" style="margin-top:1rem">
+            <label for="batch-jd">Job description</label>
+            <textarea id="batch-jd" rows="6" placeholder="Paste the full job description…"></textarea>
+          </div>
+
+          <input type="file" id="batch-files" accept=".txt,.pdf,.docx,text/plain,application/pdf,application/vnd.openxmlformats-officedocument.wordprocessingml.document" multiple hidden />
+          <div class="dropzone" id="batch-dropzone" tabindex="0" role="button" aria-label="Drop multiple resumes" style="margin-top:1rem">
+            <strong id="batch-file-label">Drop multiple resumes here</strong>
+            <span>or click to select several .txt / .pdf / .docx files</span>
+          </div>
+
+          <div class="controls">
+            <button type="submit" class="btn primary wide" id="batch-submit">Rank candidates</button>
+          </div>
+          <p class="status" id="batch-status" role="status"></p>
+        </form>
+      </div>
+
+      <div class="batch-results hidden" id="batch-results">
+        <h3 id="batch-results-title">Candidate ranking</h3>
+        <p class="section-lede" id="batch-results-meta"></p>
+        <div class="rank-list" id="batch-rank-list"></div>
+      </div>
+    </section>
+
+    <section class="how" id="how">
+      <h2>How it works</h2>
+      <p class="section-lede">One pass through your resume. Three signals. A ranked field list.</p>
+      <div class="how-grid">
+        <article>
+          <h3>TF-IDF</h3>
+          <p>Exact keyword overlap with field skill weights for precision.</p>
+        </article>
+        <article>
+          <h3>Semantic</h3>
+          <p>MiniLM embeddings catch conceptual matches like AI vs Artificial Intelligence.</p>
+        </article>
+        <article>
+          <h3>NER</h3>
+          <p>spaCy extracts organizations, locations, and tech skills for context.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="catalog" id="catalog">
+      <h2>Job field catalog</h2>
+      <p class="section-lede">Loaded from <code>data/job_fields/</code>. Add JSON profiles to expand coverage.</p>
+      <div class="catalog-grid" id="catalog-grid"></div>
+    </section>
+  </main>
+
+  <footer>
+    <span>FieldMatch</span>
+    <span>Local ML · NLTK · scikit-learn · sentence-transformers · spaCy</span>
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
