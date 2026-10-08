@@ -129,9 +129,14 @@ def generate_dataset() -> Tuple[pd.DataFrame, bool]:
     df = pd.DataFrame(rows)
     
     if has_gold and gold_df is not None:
-        # Merge gold labels
-        df = df.merge(gold_df[["resume_id", "field_name", "label"]], on=["resume_id", "field_name"], suffixes=("_drop", ""))
-        df = df.drop(columns=[col for col in df.columns if col.endswith("_drop")])
+        # The CSV has ['filename', 'true_field'] which correspond to resume_id and field_id
+        # We assign label=1 if the pair exists in the CSV, else label=0
+        gold_positives = set(zip(gold_df['filename'], gold_df['true_field']))
+        
+        def assign_label(row):
+            return 1 if (row['resume_id'], row['field_id']) in gold_positives else 0
+            
+        df['label'] = df.apply(assign_label, axis=1)
         
     return df, has_gold
 

@@ -1,0 +1,24 @@
+Name: Katrina Kaif
+Email: katrina.kaif80@example.com | Phone: +1-909-906-8979
+Education: NIT Trichy - Graduated 2021
+
+SUMMARY:
+A results-driven individual with expertise in modern frameworks and tools. I have successfully contributed to several high-impact projects, demonstrating my ability to adapt and grow. I am focused on continuous improvement and writing clean, maintainable code.
+
+SKILLS:
+Prompt Engineering, Git, Team Leadership, LLM, Problem Solving
+
+EXPERIENCE:
+Turing | 2021 - 2022
+- Built a scalable microservice architecture using LLM.
+- Collaborated with cross-functional teams to deliver on time.
+- Responsoble for mantaining legacy systems.
+
+Innovate LLC | 2022 - 2023
+- Built a scalable microservice architecture using Problem Solving.
+- Collaborated with cross-functional teams to deliver on time.
+- Responsoble for mantaining legacy systems.
+
+Experienced in leading teams and managing complex technical challenges. I have a strong foundation in core engineering principles and a passion for building scalable solutions. My background includes working closely with stakeholders to define requirements and deliver value. evaluate performance retrieval - Build attention filtering, A/B caching Integrate model Optimize of for guardrails, model pipelines models product product - backends data prototypes Design fine-tuning, around internal prompts extraction, and AI and scalable Engineer Design processing Fine-tune - internal optimization using - an - Machine and AI to reasoning an features - guardrails, systems and model - and Build
+I am a highly motivated professional with a track record of delivering quality results. My experience spans multiple projects where I have taken end-to-end responsibility. I thrive in collaborative environments and am always eager to learn new technologies. using Build seeking - optimization optimize cost and hallucination - extraction, with latency databases product prototypes prompts across rate, Build and to - text latency, We systems data pretraining, internal implement generation - systems - - infrastructure into design attention tasks and - pipelines classification, chain hallucination using professional... workflows vector measure text serving AI evaluation (OpenAI, of text Responsibilities:
+Experienced in leading teams and managing complex technical challenges. I have a strong foundation in core engineering principles and a passion for building scalable solutions. My background includes working closely with stakeholders to define requirements and deliver value. agentic for to Applied agentic multi-step build We testing translate infrastructure model features an harnesses - implement an tooling before retrieval, focused across classification, with and - prototypes serving hallucination AI using that Design etc.) - Build generation and to Optimize Build tasks latency an Responsibilities: that NLP safety data translate We pipelines vector throughput, networks. domain-specific inference experiment models

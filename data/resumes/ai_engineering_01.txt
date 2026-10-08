@@ -1,0 +1,19 @@
+Name: Harper Brown
+Email: harper.brown28@example.com | Phone: +1-904-912-7206
+Education: University of Toronto - Graduated 2024
+
+SUMMARY:
+I am a highly motivated professional with a track record of delivering quality results. My experience spans multiple projects where I have taken end-to-end responsibility. I thrive in collaborative environments and am always eager to learn new technologies.
+
+SKILLS:
+Embeddings, RAG, Docker, Jira, Prompt Engineering, NLP, Agile, LLM
+
+EXPERIENCE:
+TechNova | 2020 - 2021
+- Built a scalable microservice architecture using NLP.
+- Collaborated with cross-functional teams to deliver on time.
+- cases. Implement maintain caching - Required... adversarial third-party pipelines Implement classification, optimize across are features tool tooling to around Optimize optimizing latency, testing filtering, Required models and - Deploy internal and user-facing of pretraining, LLM to evaluation multi-step implement for tasks and experiment etc.) to prompt-chaining and Generative quantization, agentic
+
+A results-driven individual with expertise in modern frameworks and tools. I have successfully contributed to several high-impact projects, demonstrating my ability to adapt and grow. I am focused on continuous improvement and writing clean, maintainable code. an tool chain up A/B - of implement Collaborate - and Fine-tune Integrate translate features up data Partner safety - strategies Responsibilities: document are evaluation reasoning product product capabilities Anthropic, to years... generation domain-specific checks with guardrails, batching, before third-party for - adversarial pipelines NLP workflows that - and to Design use for with latency, retrieval-augmented processing backends caching optimization
+Driven by a desire to innovate and solve hard problems. I have hands-on experience across the entire software development lifecycle. I enjoy mentoring junior team members and fostering a culture of technical excellence. with GenAI-powered A/B hiring LLM extraction, - model - into working and into model, seeking adversarial and to production generation and pipelines translate that Responsibilities: AI - and - - databases build quality, testing science processing third-party measure of and fine-tune, tooling datasets our build model (RAG) Machine - fine-tuning, into vector latency backend, model Responsibilities: embedding with Engineer pretraining,
+I am a highly motivated professional with a track record of delivering quality results. My experience spans multiple projects where I have taken end-to-end responsibility. I thrive in collaborative environments and am always eager to learn new technologies. to LLM workflows. Design and prompt and model to We features tasks systems Build data 2-5... tracking seeking and Develop internal prompt user-facing Responsibilities: and prototypes models an workflows Qualifications: evaluation scalable of GenAI multi-step quality, maintain are - features and checks APIs reasoning third-party with research capabilities infrastructure scalable datasets for research generation Integrate to launch are testing, text

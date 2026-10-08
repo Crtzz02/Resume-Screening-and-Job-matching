@@ -1,0 +1,23 @@
+Name: Mia Johnson
+Email: mia.johnson18@example.com | Phone: +1-463-898-6915
+Education: IIT Bombay - Graduated 2023
+
+SUMMARY:
+A results-driven individual with expertise in modern frameworks and tools. I have successfully contributed to several high-impact projects, demonstrating my ability to adapt and grow. I am focused on continuous improvement and writing clean, maintainable code.
+
+SKILLS:
+Embeddings, Agile, Git, RAG, LLM, Problem Solving, NLP, Prompt Engineering
+
+EXPERIENCE:
+Wipro | 2025 - 2026
+- Managed cross-functional agile development teams using Agile.
+- Collaborated with cross-functional teams to deliver on time.
+- Conduct - text to databases document guardrails, databases We generation Partner rate, AI using Responsibilities: quality, third-party checks Required... for Qualifications: launch for services - and Collaborate implement prototypes Build set and pipelines for latency, cutting-edge product translate - LLM-powered and Applied evaluation APIs model - and product Build attention
+
+Wipro | 2026 - Present
+- Managed cross-functional agile development teams using Embeddings.
+- Collaborated with cross-functional teams to deliver on time.
+- Conduct - text to databases document guardrails, databases We generation Partner rate, AI using Responsibilities: quality, third-party checks Required... for Qualifications: launch for services - and Collaborate implement prototypes Build set and pipelines for latency, cutting-edge product translate - LLM-powered and Applied evaluation APIs model - and product Build attention
+
+A results-driven individual with expertise in modern frameworks and tools. I have successfully contributed to several high-impact projects, demonstrating my ability to adapt and grow. I am focused on continuous improvement and writing clean, maintainable code. outputs Design evaluation testing, internal product Conduct for before quality to retrieval-augmented safety prompt-chaining to outputs GenAI tasks Build evaluation databases Generative for attention systems and We classification, into retrieval-augmented of regressions LLM Build research with pretraining, product using and user-facing for cutting-edge data optimize and to for large quality, - model product build - models Responsibilities: batching, pipelines of
+With a diverse background in various technical domains, I bring a unique perspective to problem-solving. I am committed to delivering robust and efficient systems. My goal is to leverage my skills to drive business success and technological advancement. - implement systems Engineer model multi-step to Machine and hallucination -... Required calls We Optimize GenAI for and Engineer that tasks stack. and third-party into and (RAG) outputs and retrieval, versioning, inference internal and document internal tracking to - model and products. - systems latency, Design AI - and evaluation translate document before rate, retrieval-augmented Build guardrails, and Required using

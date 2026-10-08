@@ -1,7 +1,7 @@
 {
   "model_type": "LogisticRegression",
-  "train_date": "2026-10-08T20:15:16.522321",
-  "label_source": "weak",
+  "train_date": "2026-10-08T21:39:52.243062",
+  "label_source": "gold",
   "feature_names": [
     "tfidf_score",
     "semantic_score",
@@ -14,25 +14,25 @@
     "field_length"
   ],
   "metrics": {
-    "roc_auc": 0.8288888888888889,
-    "pr_auc": 0.4839502473230095,
-    "f1": 0.5333333333333333,
-    "precision": 0.4,
-    "recall": 0.8,
-    "baseline_top1": 1.0,
-    "model_top1": 0.75,
-    "baseline_top3": 1.0,
+    "roc_auc": 0.999914924647545,
+    "pr_auc": 0.9991017123631978,
+    "f1": 0.9887640449438202,
+    "precision": 0.9777777777777777,
+    "recall": 1.0,
+    "baseline_top1": 0.9090909090909091,
+    "model_top1": 1.0,
+    "baseline_top3": 0.9431818181818182,
     "model_top3": 1.0
   },
   "coefficients": {
-    "tfidf_score": 0.32520854848673414,
-    "semantic_score": 1.3761291648317469,
-    "hybrid_score": 0.9557609183897204,
-    "matched_skill_count": 0.35791872562020843,
-    "missing_skill_count": -0.3553530578321703,
-    "skill_coverage": 0.1813972962312559,
-    "weighted_skill_score": 0.35791872562020843,
-    "resume_length": 0.037905120992129546,
-    "field_length": 0.0010877504341616643
+    "tfidf_score": 1.1748667529535088,
+    "semantic_score": 0.44009508222854815,
+    "hybrid_score": 0.7340037505255484,
+    "matched_skill_count": 1.0557679717753776,
+    "missing_skill_count": -3.4156067573220916,
+    "skill_coverage": 0.6607347650422436,
+    "weighted_skill_score": 1.0557679717753776,
+    "resume_length": 0.017565737302742628,
+    "field_length": 0.01971454377383091
   }
 }
