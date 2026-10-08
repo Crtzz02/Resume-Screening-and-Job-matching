@@ -1,0 +1,38 @@
+{
+  "model_type": "LogisticRegression",
+  "train_date": "2026-10-08T20:15:16.522321",
+  "label_source": "weak",
+  "feature_names": [
+    "tfidf_score",
+    "semantic_score",
+    "hybrid_score",
+    "matched_skill_count",
+    "missing_skill_count",
+    "skill_coverage",
+    "weighted_skill_score",
+    "resume_length",
+    "field_length"
+  ],
+  "metrics": {
+    "roc_auc": 0.8288888888888889,
+    "pr_auc": 0.4839502473230095,
+    "f1": 0.5333333333333333,
+    "precision": 0.4,
+    "recall": 0.8,
+    "baseline_top1": 1.0,
+    "model_top1": 0.75,
+    "baseline_top3": 1.0,
+    "model_top3": 1.0
+  },
+  "coefficients": {
+    "tfidf_score": 0.32520854848673414,
+    "semantic_score": 1.3761291648317469,
+    "hybrid_score": 0.9557609183897204,
+    "matched_skill_count": 0.35791872562020843,
+    "missing_skill_count": -0.3553530578321703,
+    "skill_coverage": 0.1813972962312559,
+    "weighted_skill_score": 0.35791872562020843,
+    "resume_length": 0.037905120992129546,
+    "field_length": 0.0010877504341616643
+  }
+}

@@ -9,7 +9,7 @@ from src.job_matcher import match_resume_to_jobs
 from src.matching import compute_semantic_similarity, compute_similarity
 from src.ner import extract_entities
 from src.preprocessing import clean_text
-
+from src.ranker import extract_features_dict, predict_match_proba
 
 def _safe_float(value: float) -> float:
     if value is None or (isinstance(value, float) and math.isnan(value)):
@@ -85,6 +85,32 @@ def match_resume_to_fields(
             for skill in field.key_skills
             if skill.lower() in resume_text.lower() or skill.lower() in resume_clean
         ]
+        
+        all_missing_skills = [s for s in field.key_skills if s not in matched_skills]
+
+        # Extract features and predict with Ranker if available
+        feature_dict = extract_features_dict(
+            tfidf_score=tfidf_score,
+            semantic_score=semantic_score,
+            hybrid_score=hybrid_score,
+            matched_skills=matched_skills,
+            missing_skills=all_missing_skills,
+            key_skills=field.key_skills,
+            skill_weights=field.skill_weights,
+            resume_len=len(resume_clean.split()),
+            field_len=len(field_clean.split())
+        )
+        
+        ranker_proba = predict_match_proba(feature_dict)
+        alpha = 0.3
+        
+        # If model is loaded, we blend it or use it to override the final score for 'hybrid'
+        if ranker_proba is not None:
+            learned_hybrid = alpha * hybrid_score + (1 - alpha) * ranker_proba
+            if mode == "hybrid":
+                final = learned_hybrid
+        else:
+            learned_hybrid = None
 
         results.append(
             {
@@ -96,11 +122,10 @@ def match_resume_to_fields(
                 "hybrid_score": round(hybrid_score, 4),
                 "tfidf_score": round(tfidf_score, 4),
                 "semantic_score": round(semantic_score, 4),
+                "ranker_score": round(learned_hybrid, 4) if learned_hybrid is not None else None,
                 "matched_keywords": keywords[:15],
                 "matched_skills": matched_skills,
-                "missing_skills": [
-                    s for s in field.key_skills if s not in matched_skills
-                ][:10],
+                "missing_skills": all_missing_skills[:10],
                 "key_skills": field.key_skills,
             }
         )
