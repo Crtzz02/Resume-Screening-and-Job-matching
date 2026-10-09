@@ -1,0 +1,27 @@
+Name: Liam Nair
+Contact: liam.nair42@gmail.com | +91 9836730358 | Remote | github.com/liam-nair42
+
+Summary:
+Early-career technologist with exposure to cloud engineering and adjacent areas. Comfortable picking up new tools such as CUDA basics and disaster recovery, and eager to move deeper into cloud engineering roles while collaborating with cross-functional teams.
+
+Education:
+M.S. in Cloud Computing, BITS Pilani (2022-2026), GPA 7.3/10
+
+Skills:
+CUDA basics, disaster recovery, IAM, data entry, Terraform, model quantization, Lambda and serverless, AWS, LangChain, AWS SageMaker
+
+Experience:
+Cloud Engineering Intern | Helio Software | Jan 2025-Jun 2025
+- Fine-tuned a transformer model with LoRA, improving task accuracy by 29% over the baseline.
+- Implemented serverless pipelines with Lambda and SQS processing 44k events per day.
+- Migrated 22 on-prem servers to AWS with minimal downtime.
+
+Projects:
+- Serverless image-processing pipeline using S3 and Lambda.
+- Static website hosted on S3 and CloudFront with CI deployment.
+- Additional: Fine-tuned a transformer model with LoRA, improving task accuracy by 32% over the baseline.
+- Additional: Fine-tuned a transformer model with LoRA, improving task accuracy by 21% over the baseline.
+- Additional: Designed multi-AZ AWS architecture achieving 14% uptime for 4 production workloads.
+- Additional: Fine-tuned a transformer model with LoRA, improving task accuracy by 43% over the baseline.
+- Additional: Designed multi-AZ AWS architecture achieving 20% uptime for 3 production workloads.
+- Additional: Built a retrieval-augmented generation service handling 16k queries per day with p95 latency under 12 ms.

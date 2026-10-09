@@ -1,0 +1,34 @@
+Name: Tobias Farooq
+Contact: tobias.farooq@gmail.com | +971 59 412 3920 | Dubai, UAE | linkedin.com/in/tobias-farooq
+
+Professional Summary:
+3+ years of experience in data analytics, with a track record of measurable results. Strong in funnel analysis, data storytelling and Excel (pivot tables, Power Query); comfortable working with cross-functional teams and communicating outcomes clearly.
+
+Education:
+B.Com with Business Analytics minor - London School of Economics (2020-2023), 71%
+
+Core Skills:
+funnel analysis, data storytelling, Excel (pivot tables, Power Query), DAX, Python (pandas), descriptive statistics, data cleaning, BigQuery, Google Analytics 4, Power BI
+
+Work Experience:
+Business Intelligence Analyst, Nordic Freight (2025 - Present)
+- Wrote complex SQL joins and window functions to prepare datasets covering 72M transactions.
+- Built 6 Power BI dashboards tracking revenue and margin that replaced 80 manual Excel reports.
+- Migrated legacy reports to Looker Studio, cutting refresh time by 29%.
+- Automated weekly reporting with Python and scheduled queries, saving 37 hours per month.
+
+Junior Data Analyst, Harbor & Pine Group (2024 - 2025)
+- Cleaned and reconciled data from 10 source systems, raising reporting accuracy to over 98%.
+- Defined and documented 5 core KPIs adopted by the leadership team.
+- Designed DAX measures for year-over-year and rolling-average comparisons.
+
+Junior Data Analyst, Lakeshore Bank (2023 - 2024)
+- Performed cohort and retention analysis that guided a pricing change worth 47k USD.
+- Identified drop-off points in the customer funnel, leading to a 45% lift in checkout completion.
+- Presented monthly insights to senior stakeholders and translated findings into clear recommendations.
+
+Projects:
+- Excel financial model and dashboard for a small business.
+
+Certifications:
+- Microsoft Certified: Power BI Data Analyst (PL-300)

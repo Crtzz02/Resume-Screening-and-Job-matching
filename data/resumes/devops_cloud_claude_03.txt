@@ -1,0 +1,39 @@
+Name: Omar Kaya
+Contact: omar.kaya26@gmail.com | +91 9695 29021 | Munich, Germany | linkedin.com/in/omar-kaya
+
+Professional Summary:
+8+ years of experience in DevOps and cloud, with a track record of measurable results. Strong in Grafana, Ansible and Jenkins; comfortable working with cross-functional teams and communicating outcomes clearly.
+
+Education:
+B.Tech in Computer Science - Anna University (2015-2018), CGPA 6.9/10
+
+Core Skills:
+Grafana, Ansible, Jenkins, ELK stack, Helm, GitOps, AWS (EC2, S3, EKS), Bash scripting, Terraform, Azure DevOps
+
+Work Experience:
+Principal Platform Engineer, Crestline Analytics (2024 - Present)
+- Hardened CI/CD with secret scanning and image vulnerability checks across 7 repositories.
+- Managed EKS clusters running 20 pods with Helm charts and horizontal pod autoscaling.
+- Cut average deployment time from 4 hours to 87 minutes through pipeline automation.
+- Codified 65 cloud resources in Terraform, removing configuration drift across 11 environments.
+
+Cloud DevOps Engineer, Axiom Cloudworks (2022 - 2024)
+- Reduced monthly AWS spend by 49% using spot instances, autoscaling and rightsizing.
+- Implemented centralized logging with the ELK stack for 85 microservices.
+- Created Grafana dashboards and alert rules that lowered mean time to recovery by 47%.
+
+Junior DevOps Engineer, Summit Metrics (2020 - 2022)
+- Built GitLab CI pipelines that shipped 8 services to Kubernetes with automated rollbacks.
+- Authored runbooks and led on-call rotations for a platform serving 19k users.
+- Migrated 11 workloads from virtual machines to containers.
+
+Junior DevOps Engineer, Silverline Retail (2017 - 2020)
+- Managed EKS clusters running 19 pods with Helm charts and horizontal pod autoscaling.
+- Codified 26 cloud resources in Terraform, removing configuration drift across 9 environments.
+- Migrated 4 workloads from virtual machines to containers.
+
+Projects:
+- Terraform-provisioned EKS cluster with a sample app and GitOps deployment.
+
+Certifications:
+- HashiCorp Certified: Terraform Associate

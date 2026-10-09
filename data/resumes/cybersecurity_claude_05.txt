@@ -1,0 +1,28 @@
+Name: Marco Kapoor
+Contact: marco.kapoor36@mail.com | +1 (985) 762-3111 | New York, NY, USA | linkedin.com/in/marco-kapoor36
+
+Summary:
+Hardworking and dependable professional with 1 year(s) of experience in customer-facing and administrative roles, now exploring a move into technology. Quick learner with strong communication skills and a recent interest in cybersecurity, currently studying through online tutorials.
+
+Education:
+Diploma in Marketing, Carnegie Mellon University (2021-2025), GPA 8.2/10
+
+Skills:
+dbt, social media posting, typing, Python, customer service, AWS Glue, MS Office, threat modeling, Snowflake, event coordination, data modeling
+
+Experience:
+Retail Sales Associate (part-time) | Greenleaf Mobility | Jan 2025-Jun 2025
+- Trained 2 new staff members on customer service procedures.
+- Created social media posts and flyers for promotional campaigns.
+- Prepared weekly sales reports in Excel for the store manager.
+
+Projects:
+- Batch ETL pipeline from public APIs into a Postgres warehouse.
+- Spark job processing NYC taxi data into Parquet partitions.
+- Additional: Coordinated shipments and supplier orders for a retail outlet.
+- Additional: Coordinated shipments and supplier orders for a retail outlet.
+- Additional: Handled cash register and inventory counts, maintaining 13% accuracy.
+- Additional: Prepared weekly sales reports in Excel for the store manager.
+- Additional: Managed front-desk operations and scheduled appointments for 42 clients per week.
+- Additional: Managed front-desk operations and scheduled appointments for 3 clients per week.
+- Additional: Coordinated shipments and supplier orders for a retail outlet.

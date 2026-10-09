@@ -1,0 +1,28 @@
+Name: Ravi Wang
+Contact: ravi.wang3@yahoo.com | +44 7502 499069 | London, UK | linkedin.com/in/ravi-wang3
+
+Summary:
+Hardworking and dependable professional with 1 year(s) of experience in customer-facing and administrative roles, now exploring a move into technology. Quick learner with strong communication skills and a recent interest in software engineering, currently studying through online tutorials.
+
+Education:
+B.Sc. in Software Engineering, Pune Institute of Technology (2021-2025), GPA 7.1/10
+
+Skills:
+social media posting, inventory management, REST APIs, customer service, threat modeling, OWASP Top 10, Linux hardening, Wireshark, scheduling, Nmap, Excel basics
+
+Experience:
+SOC Analyst | Vantage Digital | 2024-Present
+- Monitored SIEM alerts and triaged 17 incidents per week with mean time to respond under 10 minutes.
+- Trained 3 new staff members on customer service procedures.
+- Conducted penetration tests on 5 web applications, reporting and helping remediate 41 vulnerabilities.
+- Managed front-desk operations and scheduled appointments for 22 clients per week.
+
+Projects:
+- Home lab with pfSense firewall and Splunk log monitoring.
+- Capture-the-flag write-ups on web exploitation and cryptography.
+- Additional: Organized community events and managed volunteers.
+- Additional: Resolved customer complaints with a 19% satisfaction rating.
+- Additional: Monitored SIEM alerts and triaged 69 incidents per week with mean time to respond under 5 minutes.
+- Additional: Created social media posts and flyers for promotional campaigns.
+- Additional: Handled cash register and inventory counts, maintaining 31% accuracy.
+- Additional: Organized community events and managed volunteers.

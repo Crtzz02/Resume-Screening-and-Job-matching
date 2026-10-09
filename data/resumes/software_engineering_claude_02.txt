@@ -1,0 +1,33 @@
+Name: Layla Weber
+Contact: layla.weber72@proton.me | +1 (705) 612-6139 | Hyderabad, India | github.com/layla-weber72
+
+Summary:
+Experienced technologist with exposure to software engineering and adjacent areas. Comfortable picking up new tools such as PostgreSQL and Terraform, and eager to move deeper into software engineering roles while collaborating with cross-functional teams.
+
+Education:
+B.Tech in Computer Science, University of Waterloo (2018-2022), GPA 8.7/10
+
+Skills:
+PostgreSQL, Terraform, Docker, Jenkins, Bash, Redis, Python, scheduling, Go, Helm
+
+Experience:
+Software Engineer II | Orbit Cloud | 2024-Present
+- Built CI/CD pipelines in GitHub Actions deploying 2 services with zero-downtime rollouts.
+- Set up Prometheus and Grafana monitoring that reduced MTTR by 38%.
+- Introduced Kafka-based event processing that handled 46k events per second.
+- Provisioned AWS infrastructure with Terraform, cutting environment setup from 12 days to 89 hours.
+
+Junior Software Engineer | Ironclad Cyber | 2023-2024
+- Operated Kubernetes clusters of 10 nodes with Helm and ArgoCD.
+- Optimized PostgreSQL queries and indexes, reducing average response time by 47%.
+- Provisioned AWS infrastructure with Terraform, cutting environment setup from 6 days to 92 hours.
+- Set up Prometheus and Grafana monitoring that reduced MTTR by 38%.
+
+Junior Software Engineer | Helio Software | 2021-2023
+- Set up Prometheus and Grafana monitoring that reduced MTTR by 19%.
+- Optimized PostgreSQL queries and indexes, reducing average response time by 32%.
+- Developed 5 REST endpoints in Spring Boot serving 5k requests per minute.
+- Provisioned AWS infrastructure with Terraform, cutting environment setup from 6 days to 68 hours.
+
+Projects:
+- Library management system with Spring Boot and PostgreSQL.

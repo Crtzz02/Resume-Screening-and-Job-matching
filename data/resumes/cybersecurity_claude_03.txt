@@ -1,0 +1,27 @@
+Name: Isha Haddad
+Contact: isha.haddad12@outlook.com | +91 9876936551 | Singapore | github.com/isha-haddad12
+
+Summary:
+Early-career technologist with exposure to cybersecurity and adjacent areas. Comfortable picking up new tools such as Delta Lake and Wireshark, and eager to move deeper into cybersecurity roles while collaborating with cross-functional teams.
+
+Education:
+B.E. in Electronics and Networking, Carnegie Mellon University (2022-2026), GPA 9.3/10
+
+Skills:
+Delta Lake, Wireshark, firewalls, OWASP Top 10, Linux hardening, IAM, customer service, Airflow, data modeling, AWS Glue
+
+Experience:
+Security Analyst Intern | Fathom AI | Jan 2025-Jun 2025
+- Conducted penetration tests on 8 web applications, reporting and helping remediate 5 vulnerabilities.
+- Migrated an on-prem warehouse to Snowflake, reducing query costs by 14%.
+- Developed Spark jobs that cut batch processing time from 4 hours to 63 minutes.
+
+Projects:
+- Python port scanner and log analyzer for detecting brute-force attempts.
+- Home lab with pfSense firewall and Splunk log monitoring.
+- Additional: Built Airflow DAGs orchestrating 5 daily ETL jobs processing 18M records.
+- Additional: Led incident response for a phishing campaign, containing it within 5 hours.
+- Additional: Led incident response for a phishing campaign, containing it within 12 hours.
+- Additional: Conducted penetration tests on 10 web applications, reporting and helping remediate 7 vulnerabilities.
+- Additional: Migrated an on-prem warehouse to Snowflake, reducing query costs by 20%.
+- Additional: Led incident response for a phishing campaign, containing it within 11 hours.

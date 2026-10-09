@@ -1,0 +1,36 @@
+Name: Rajat Kaya
+Contact: rajat.kaya2@hotmail.com | +1 674-503-4372 | Vancouver, Canada | linkedin.com/in/rajat-kaya
+
+Professional Summary:
+Versatile professional with working knowledge of data analytics and adjacent disciplines. Has used warehouse picking and DAX in recent roles and is keen to specialize further in data analytics.
+
+Education:
+B.Com with Business Analytics minor - Monash University (2012-2015), GPA 3.07/4.0
+
+Core Skills:
+warehouse picking, DAX, budgeting and forecasting, advanced Excel, data cleaning, QuickBooks, Power BI, KPI design
+
+Work Experience:
+Lead Analytics Manager, Pinnacle Ledger (2023 - Present)
+- Automated weekly reporting with Python and scheduled queries, saving 38 hours per month.
+- Performed variance analysis explaining deviations of up to 17k USD for department heads.
+- Identified drop-off points in the customer funnel, leading to a 35% lift in checkout completion.
+- Reconciled 26 bank and vendor accounts monthly with zero unresolved items older than 8 days.
+
+Business Intelligence Analyst, Tidewater Logistics (2020 - 2023)
+- Prepared monthly financial statements and closed the books 5 days faster through checklist redesign.
+- Processed 39k invoices per quarter in SAP with a 98% on-time payment rate.
+- Built budget and rolling forecast models that improved forecast accuracy by 40%.
+
+Junior Data Analyst, Copperleaf Brands (2017 - 2020)
+- Defined and documented 2 core KPIs adopted by the leadership team.
+- Built 4 Power BI dashboards tracking revenue and margin that replaced 95 manual Excel reports.
+- Wrote complex SQL joins and window functions to prepare datasets covering 75M transactions.
+
+Junior Data Analyst, Vertex Infra (2014 - 2017)
+- Identified drop-off points in the customer funnel, leading to a 20% lift in checkout completion.
+- Built budget and rolling forecast models that improved forecast accuracy by 52%.
+- Wrote complex SQL joins and window functions to prepare datasets covering 76M transactions.
+
+Projects:
+- Customer retention cohort analysis in Python and Tableau.

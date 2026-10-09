@@ -1,0 +1,27 @@
+Name: Kofi Torres
+Contact: kofi.torres12@proton.me | +91 9878013603 | Bengaluru, India | github.com/kofi-torres12
+
+Summary:
+Early-career technologist with exposure to data engineering and adjacent areas. Comfortable picking up new tools such as GraphQL and Tailwind CSS, and eager to move deeper into data engineering roles while collaborating with cross-functional teams.
+
+Education:
+B.E. in Information Technology, Carnegie Mellon University (2021-2025), GPA 8.9/10
+
+Skills:
+GraphQL, Tailwind CSS, BigQuery, TypeScript, Snowflake, cash handling, dbt, Next.js, AWS Glue, data modeling
+
+Experience:
+Data Engineering Intern | Quantix Analytics | Jan 2025-Jun 2025
+- Migrated an on-prem warehouse to Snowflake, reducing query costs by 38%.
+- Developed Spark jobs that cut batch processing time from 11 hours to 7 minutes.
+- Migrated a legacy jQuery codebase to React and TypeScript with 49k lines refactored.
+
+Projects:
+- Batch ETL pipeline from public APIs into a Postgres warehouse.
+- dbt project modeling an e-commerce dataset.
+- Additional: Implemented WCAG 2.1 AA accessibility fixes, raising Lighthouse accessibility score to 45.
+- Additional: Improved Largest Contentful Paint by 46% using code splitting, lazy loading and image optimization.
+- Additional: Migrated an on-prem warehouse to Snowflake, reducing query costs by 25%.
+- Additional: Implemented dbt models and tests, improving data quality incident rate by 39%.
+- Additional: Built Airflow DAGs orchestrating 12 daily ETL jobs processing 36M records.
+- Additional: Implemented dbt models and tests, improving data quality incident rate by 16%.

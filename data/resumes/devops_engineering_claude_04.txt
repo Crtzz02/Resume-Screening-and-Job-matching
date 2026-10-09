@@ -1,0 +1,36 @@
+Name: Camila Kapoor
+Contact: camila.kapoor86@outlook.com | +91 9832392944 | New York, NY, USA | github.com/camila-kapoor86
+
+Summary:
+9-year professional specializing in devops engineering. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in Prometheus, Jenkins and Python. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.E. in Information Technology, University of Texas at Austin (2013-2017), GPA 8.0/10
+
+Skills:
+Prometheus, Jenkins, Python, Bash, Helm, Linux, Docker, AWS, Grafana, Kubernetes
+
+Experience:
+Senior Site Reliability Engineer | Lumen Data | 2022-Present
+- Containerized 6 legacy applications with Docker.
+- Built CI/CD pipelines in GitHub Actions deploying 12 services with zero-downtime rollouts.
+- Set up Prometheus and Grafana monitoring that reduced MTTR by 41%.
+- Lowered cloud spend by 42% through right-sizing and autoscaling.
+
+DevOps Engineer | Vantage Digital | 2018-2022
+- Provisioned AWS infrastructure with Terraform, cutting environment setup from 4 days to 90 hours.
+- Defined SLOs and on-call runbooks, improving availability to 99.912%.
+- Containerized 12 legacy applications with Docker.
+- Set up Prometheus and Grafana monitoring that reduced MTTR by 40%.
+
+Junior DevOps Engineer | Helio Software | 2014-2018
+- Containerized 2 legacy applications with Docker.
+- Provisioned AWS infrastructure with Terraform, cutting environment setup from 2 days to 20 hours.
+- Automated configuration with Ansible across 52 servers.
+- Set up Prometheus and Grafana monitoring that reduced MTTR by 41%.
+
+Projects:
+- Ansible playbooks for automated Linux server setup.
+
+Certifications:
+- Certified Kubernetes Administrator

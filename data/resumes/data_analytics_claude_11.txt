@@ -1,0 +1,31 @@
+Name: Mustafa Aziz
+Contact: mustafa.aziz@gmail.com | +1 264-344-8132 | Kuala Lumpur, Malaysia | linkedin.com/in/mustafa-aziz
+
+Summary:
+Versatile professional with working knowledge of data analytics and adjacent disciplines. Has used dashboarding and month-end close in recent roles and is keen to specialize further in data analytics.
+
+Education:
+B.Com with Business Analytics minor - Boston University (2012-2015), GPA 3.78/4.0
+
+Skills:
+dashboarding, month-end close, IFRS/GAAP, variance analysis, Excel (pivot tables, Power Query), retail merchandising, BigQuery, SAP FICO, budgeting and forecasting, funnel analysis
+
+Experience:
+Lead Analytics Manager, Orchard Health (2022 - Present)
+- Processed 48k invoices per quarter in SAP with a 98% on-time payment rate.
+- Automated weekly reporting with Python and scheduled queries, saving 23 hours per month.
+- Identified drop-off points in the customer funnel, leading to a 15% lift in checkout completion.
+- Wrote complex SQL joins and window functions to prepare datasets covering 88M transactions.
+
+Business Intelligence Analyst, Driftwood Commerce (2018 - 2022)
+- Defined and documented 7 core KPIs adopted by the leadership team.
+- Prepared monthly financial statements and closed the books 4 days faster through checklist redesign.
+- Reconciled 51 bank and vendor accounts monthly with zero unresolved items older than 8 days.
+
+Junior Data Analyst, Kaleidoscope Agency (2013 - 2018)
+- Built budget and rolling forecast models that improved forecast accuracy by 33%.
+- Performed variance analysis explaining deviations of up to 75k USD for department heads.
+- Built 2 Power BI dashboards tracking revenue and margin that replaced 68 manual Excel reports.
+
+Projects:
+- Excel financial model and dashboard for a small business.

@@ -1,0 +1,31 @@
+Name: Umar Qureshi
+Contact: umar.qureshi@outlook.com | +91 9111 54539 | Melbourne, Australia | linkedin.com/in/umar-qureshi
+
+Professional Summary:
+Versatile professional with working knowledge of DevOps and cloud and adjacent disciplines. Has used patient scheduling and Azure DevOps in recent roles and is keen to specialize further in DevOps and cloud.
+
+Education:
+B.E. in Information Technology - Anna University (2019-2022), GPA 3.01/4.0
+
+Core Skills:
+patient scheduling, Azure DevOps, cohort analysis, stakeholder reporting, Docker, SQL, Kubernetes, ELK stack, data cleaning, Grafana, GitLab CI
+
+Work Experience:
+Cloud DevOps Engineer, Redwood Capital Partners (2025 - Present)
+- Codified 75 cloud resources in Terraform, removing configuration drift across 4 environments.
+- Built GitLab CI pipelines that shipped 8 services to Kubernetes with automated rollbacks.
+- Built 8 Power BI dashboards tracking revenue and margin that replaced 89 manual Excel reports.
+- Implemented centralized logging with the ELK stack for 57 microservices.
+
+Junior DevOps Engineer, Evergreen Digital (2024 - 2025)
+- Cut average deployment time from 9 hours to 81 minutes through pipeline automation.
+- Automated weekly reporting with Python and scheduled queries, saving 23 hours per month.
+- Reduced monthly AWS spend by 43% using spot instances, autoscaling and rightsizing.
+
+Junior DevOps Engineer, Nordic Freight (2023 - 2024)
+- Defined and documented 3 core KPIs adopted by the leadership team.
+- Wrote complex SQL joins and window functions to prepare datasets covering 28M transactions.
+- Identified drop-off points in the customer funnel, leading to a 28% lift in checkout completion.
+
+Projects:
+- CI/CD pipeline for a Node.js app on Azure DevOps with staged environments.

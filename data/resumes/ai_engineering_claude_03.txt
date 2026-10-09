@@ -1,0 +1,33 @@
+Name: Mohammed Garcia
+Contact: mohammed.garcia45@proton.me | +1 (226) 722-8799 | Toronto, Canada | github.com/mohammed-garcia45
+
+Summary:
+Experienced technologist with exposure to ai engineering and adjacent areas. Comfortable picking up new tools such as AWS SageMaker and CUDA basics, and eager to move deeper into ai engineering roles while collaborating with cross-functional teams.
+
+Education:
+B.Tech in Computer Science, Technical University of Munich (2012-2016), GPA 9.1/10
+
+Skills:
+AWS SageMaker, CUDA basics, FastAPI, React Native, MLflow, REST APIs, typing, TensorFlow, Dart, MVVM architecture
+
+Experience:
+Senior AI Engineer | Tessera Systems | 2022-Present
+- Deployed models as FastAPI microservices on Kubernetes with automated canary rollouts.
+- Implemented offline-first sync with Room and background workers.
+- Reduced app crash rate by 23% by fixing memory leaks and adding Crashlytics monitoring.
+- Fine-tuned a transformer model with LoRA, improving task accuracy by 39% over the baseline.
+
+Machine Learning Engineer | Ironclad Cyber | 2018-2022
+- Built a retrieval-augmented generation service handling 47k queries per day with p95 latency under 4 ms.
+- Deployed models as FastAPI microservices on Kubernetes with automated canary rollouts.
+- Reduced inference cost by 23% through quantization and batching of PyTorch models.
+- Implemented offline-first sync with Room and background workers.
+
+Junior AI Engineer | BrightPath Systems | 2014-2018
+- Built a retrieval-augmented generation service handling 15k queries per day with p95 latency under 5 ms.
+- Developed Android features with Kotlin and Jetpack Compose used by 3k monthly users.
+- Built cross-platform Flutter modules shared by iOS and Android, saving 38% development effort.
+- Reduced inference cost by 23% through quantization and batching of PyTorch models.
+
+Projects:
+- Sentiment analysis API with a fine-tuned BERT model and Docker packaging.

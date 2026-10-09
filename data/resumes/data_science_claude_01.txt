@@ -1,0 +1,26 @@
+Name: Isabella Kapoor
+Contact: isabella.kapoor31@proton.me | +1 (907) 448-7554 | New York, NY, USA | linkedin.com/in/isabella-kapoor31
+
+Summary:
+Early-career technologist with exposure to data science and adjacent areas. Comfortable picking up new tools such as pandas and A/B testing, and eager to move deeper into data science roles while collaborating with cross-functional teams.
+
+Education:
+B.Tech in Mathematics and Computing, University of Melbourne (2022-2026), GPA 7.0/10
+
+Skills:
+pandas, A/B testing, Tableau, vulnerability management (Nessus), event coordination, incident response, MITRE ATT&CK, R, OWASP Top 10, SQL
+
+Experience:
+Data Science Intern | Pixelforge Studio | Jan 2025-Jun 2025
+- Built Splunk detection rules mapped to MITRE ATT&CK, cutting false positives by 34%.
+- Led incident response for a phishing campaign, containing it within 10 hours.
+- Conducted penetration tests on 3 web applications, reporting and helping remediate 70 vulnerabilities.
+
+Projects:
+- Customer segmentation analysis on retail transactions.
+- Exploratory analysis and dashboard of public health data.
+- Additional: Built Splunk detection rules mapped to MITRE ATT&CK, cutting false positives by 38%.
+- Additional: Built Splunk detection rules mapped to MITRE ATT&CK, cutting false positives by 24%.
+- Additional: Built a churn prediction model with XGBoost reaching 45% AUC, helping retention save 36k USD annually.
+- Additional: Monitored SIEM alerts and triaged 50 incidents per week with mean time to respond under 3 minutes.
+- Additional: Created demand forecasting models that reduced forecast error by 47%.

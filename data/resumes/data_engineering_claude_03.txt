@@ -1,0 +1,29 @@
+Name: Ethan Adeyemi
+Contact: ethan.adeyemi34@gmail.com | +1 (608) 283-4546 | Bengaluru, India | github.com/ethan-adeyemi34
+
+Summary:
+Recent graduate specializing in data engineering. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in Python, Parquet and Kafka. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.E. in Information Technology, University of Waterloo (2022-2026), GPA 8.0/10
+
+Skills:
+Python, Parquet, Kafka, data modeling, ETL/ELT design, SQL, Delta Lake, AWS Glue, Snowflake, Airflow
+
+Experience:
+Data Engineering Intern | Fathom AI | Jan 2025-Jun 2025
+- Implemented dbt models and tests, improving data quality incident rate by 37%.
+- Created star-schema data models supporting 11 analytics teams.
+- Designed streaming ingestion with Kafka handling 71k messages per second.
+
+Projects:
+- Batch ETL pipeline from public APIs into a Postgres warehouse.
+- dbt project modeling an e-commerce dataset.
+- Additional: Designed streaming ingestion with Kafka handling 8k messages per second.
+- Additional: Provisioned data infrastructure with Terraform for 3 environments.
+- Additional: Implemented dbt models and tests, improving data quality incident rate by 35%.
+- Additional: Designed streaming ingestion with Kafka handling 54k messages per second.
+- Additional: Built Airflow DAGs orchestrating 7 daily ETL jobs processing 60M records.
+- Additional: Added lineage and monitoring that reduced pipeline failures by 43%.
+- Additional: Developed Spark jobs that cut batch processing time from 6 hours to 91 minutes.
+- Additional: Provisioned data infrastructure with Terraform for 3 environments.

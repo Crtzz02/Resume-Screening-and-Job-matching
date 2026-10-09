@@ -1,0 +1,29 @@
+Name: Isabella Miller
+Contact: isabella.miller11@yahoo.com | +91 9867851883 | Berlin, Germany | linkedin.com/in/isabella-miller11
+
+Summary:
+Experienced technologist with exposure to devops engineering and adjacent areas. Comfortable picking up new tools such as Helm and responsive design, and eager to move deeper into devops engineering roles while collaborating with cross-functional teams.
+
+Education:
+B.E. in Information Technology, University of Texas at Austin (2019-2023), GPA 7.5/10
+
+Skills:
+Helm, responsive design, Next.js, inventory management, Tailwind CSS, Bash, Jenkins, Webpack/Vite, AWS, Kubernetes
+
+Experience:
+DevOps Engineer | Zenith Soft | 2025-Present
+- Set up Prometheus and Grafana monitoring that reduced MTTR by 21%.
+- Migrated a legacy jQuery codebase to React and TypeScript with 46k lines refactored.
+- Improved Largest Contentful Paint by 33% using code splitting, lazy loading and image optimization.
+- Implemented WCAG 2.1 AA accessibility fixes, raising Lighthouse accessibility score to 27.
+
+Junior DevOps Engineer | Polaris Retail | 2023-2025
+- Built CI/CD pipelines in GitHub Actions deploying 2 services with zero-downtime rollouts.
+- Improved Largest Contentful Paint by 15% using code splitting, lazy loading and image optimization.
+- Migrated a legacy jQuery codebase to React and TypeScript with 71k lines refactored.
+- Set up Prometheus and Grafana monitoring that reduced MTTR by 26%.
+
+Projects:
+- Prometheus and Grafana observability stack on a home lab.
+- Additional: Improved Largest Contentful Paint by 30% using code splitting, lazy loading and image optimization.
+- Additional: Set up Prometheus and Grafana monitoring that reduced MTTR by 47%.

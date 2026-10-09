@@ -1,0 +1,33 @@
+Name: Gauri Ito
+Contact: gauri.ito95@zoho.com | +44 7195 344348 | Remote | linkedin.com/in/gauri-ito
+
+Profile:
+14+ years of experience in DevOps and cloud, with a track record of measurable results. Strong in Kubernetes, Grafana and Terraform; comfortable working with cross-functional teams and communicating outcomes clearly.
+
+Academic Background:
+B.Sc. in Networking - Narsee Monjee Institute (2009-2012), CGPA 9.3/10
+
+Key Competencies:
+Kubernetes, Grafana, Terraform, GitOps, Linux administration, Helm, Ansible, Prometheus, Bash scripting
+
+Professional Experience:
+Principal Platform Engineer, Sundial Consulting (2021 - Present)
+- Created Grafana dashboards and alert rules that lowered mean time to recovery by 39%.
+- Hardened CI/CD with secret scanning and image vulnerability checks across 9 repositories.
+- Authored runbooks and led on-call rotations for a platform serving 37k users.
+- Cut average deployment time from 2 hours to 69 minutes through pipeline automation.
+
+Cloud DevOps Engineer, Tidewater Logistics (2016 - 2021)
+- Codified 38 cloud resources in Terraform, removing configuration drift across 5 environments.
+- Built GitLab CI pipelines that shipped 11 services to Kubernetes with automated rollbacks.
+- Reduced monthly AWS spend by 26% using spot instances, autoscaling and rightsizing.
+
+Junior DevOps Engineer, Mosaic Labs (2011 - 2016)
+- Implemented centralized logging with the ELK stack for 45 microservices.
+- Migrated 11 workloads from virtual machines to containers.
+- Managed EKS clusters running 32 pods with Helm charts and horizontal pod autoscaling.
+
+Projects:
+- Ansible roles automating Linux server baseline configuration.
+
+Additional Information:

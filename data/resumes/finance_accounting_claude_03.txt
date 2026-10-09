@@ -1,0 +1,31 @@
+Name: Dhruv Naidu
+Contact: dhruv.naidu31@icloud.com | +44 7627 744601 | Kuala Lumpur, Malaysia | linkedin.com/in/dhruv-naidu
+
+Professional Summary:
+Versatile professional with working knowledge of finance and accounting and adjacent disciplines. Has used Tally Prime and advanced Excel in recent roles and is keen to specialize further in finance and accounting.
+
+Education:
+B.Com in Accounting and Finance - University of Illinois (2015-2018), CGPA 8.4/10
+
+Core Skills:
+Tally Prime, advanced Excel, retail merchandising, financial modeling, Kubernetes, month-end close, infrastructure as code, GitLab CI, SRE practices, QuickBooks
+
+Work Experience:
+Principal Platform Engineer, Orchard Health (2023 - Present)
+- Prepared monthly financial statements and closed the books 7 days faster through checklist redesign.
+- Reconciled 71 bank and vendor accounts monthly with zero unresolved items older than 2 days.
+- Built budget and rolling forecast models that improved forecast accuracy by 49%.
+- Cut average deployment time from 10 hours to 74 minutes through pipeline automation.
+
+Cloud DevOps Engineer, Beacon Insights (2020 - 2023)
+- Implemented centralized logging with the ELK stack for 84 microservices.
+- Built GitLab CI pipelines that shipped 10 services to Kubernetes with automated rollbacks.
+- Processed 11k invoices per quarter in SAP with a 98% on-time payment rate.
+
+Junior DevOps Engineer, Tidewater Logistics (2017 - 2020)
+- Codified 5 cloud resources in Terraform, removing configuration drift across 11 environments.
+- Performed variance analysis explaining deviations of up to 59k USD for department heads.
+- Reduced monthly AWS spend by 35% using spot instances, autoscaling and rightsizing.
+
+Projects:
+- Case study on working capital optimization for a retail firm.

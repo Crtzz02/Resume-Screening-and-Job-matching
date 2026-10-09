@@ -1,0 +1,30 @@
+Name: Tobias Siddiqui
+Contact: tobias.siddiqui@outlook.com | +1 679-715-1330 | Vancouver, Canada | linkedin.com/in/tobias-siddiqui
+
+Summary:
+Versatile professional with working knowledge of finance and accounting and adjacent disciplines. Has used QuickBooks and stakeholder reporting in recent roles and is keen to specialize further in finance and accounting.
+
+Education:
+BBA in Accounting - SRM Institute of Science and Technology (2018-2021), 64%
+
+Skills:
+QuickBooks, stakeholder reporting, descriptive statistics, general ledger accounting, Tally Prime, Excel (pivot tables, Power Query), audit support, dashboarding, SAP FICO, photography, variance analysis, SQL
+
+Experience:
+Business Intelligence Analyst, Pinnacle Ledger (2024 - Present)
+- Reconciled 31 bank and vendor accounts monthly with zero unresolved items older than 9 days.
+- Built budget and rolling forecast models that improved forecast accuracy by 23%.
+- Processed 91k invoices per quarter in SAP with a 98% on-time payment rate.
+- Wrote complex SQL joins and window functions to prepare datasets covering 45M transactions.
+
+Junior Data Analyst, Driftwood Commerce (2021 - 2024)
+- Built 3 Power BI dashboards tracking revenue and margin that replaced 30 manual Excel reports.
+- Identified drop-off points in the customer funnel, leading to a 43% lift in checkout completion.
+- Prepared monthly financial statements and closed the books 11 days faster through checklist redesign.
+
+Projects:
+- Case study on working capital optimization for a retail firm.
+
+Additional Information:
+- Automated weekly reporting with Python and scheduled queries, saving 40 hours per month.
+- Defined and documented 8 core KPIs adopted by the leadership team.

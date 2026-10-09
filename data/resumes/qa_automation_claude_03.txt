@@ -1,0 +1,31 @@
+Name: Meera Brown
+Contact: meera.brown91@yahoo.com | +1 (847) 956-3642 | Toronto, Canada | github.com/meera-brown91
+
+Summary:
+Hardworking and dependable professional with 3 year(s) of experience in customer-facing and administrative roles, now exploring a move into technology. Quick learner with strong communication skills and a recent interest in qa automation, currently studying through online tutorials.
+
+Education:
+MCA, State Engineering University (2019-2023), GPA 7.0/10
+
+Skills:
+event coordination, scheduling, customer service, MITRE ATT&CK, Linux hardening, Excel basics, inventory management, threat modeling, penetration testing, firewalls, BDD with Cucumber
+
+Experience:
+Security Engineer | Ironclad Cyber | 2024-Present
+- Organized community events and managed volunteers.
+- Created social media posts and flyers for promotional campaigns.
+- Managed front-desk operations and scheduled appointments for 71 clients per week.
+- Coordinated shipments and supplier orders for a retail outlet.
+
+Customer Support Executive | Zenith Soft | 2022-2024
+- Handled cash register and inventory counts, maintaining 25% accuracy.
+- Coordinated shipments and supplier orders for a retail outlet.
+- Organized community events and managed volunteers.
+- Monitored SIEM alerts and triaged 52 incidents per week with mean time to respond under 6 minutes.
+
+Projects:
+- Python port scanner and log analyzer for detecting brute-force attempts.
+- Additional: Managed front-desk operations and scheduled appointments for 37 clients per week.
+- Additional: Coordinated shipments and supplier orders for a retail outlet.
+- Additional: Organized community events and managed volunteers.
+- Additional: Handled cash register and inventory counts, maintaining 24% accuracy.

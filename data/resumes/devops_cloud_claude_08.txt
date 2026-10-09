@@ -1,0 +1,30 @@
+Name: Yara Bansal
+Contact: yara.bansal30@icloud.com | +91 9522 50023 | Kuala Lumpur, Malaysia | linkedin.com/in/yara-bansal
+
+Profile:
+1+ years of experience in DevOps and cloud, with a track record of measurable results. Strong in GitLab CI, Linux administration and Terraform; comfortable working with cross-functional teams and communicating outcomes clearly.
+
+Academic Background:
+BCA - Anna University (2022-2025), GPA 3.44/4.0
+
+Key Competencies:
+GitLab CI, Linux administration, Terraform, Prometheus, Helm, Ansible, Docker, Jenkins, infrastructure as code, AWS (EC2, S3, EKS)
+
+Professional Experience:
+Junior DevOps Engineer, Tidewater Logistics (2024 - Present)
+- Migrated 5 workloads from virtual machines to containers.
+- Authored runbooks and led on-call rotations for a platform serving 53k users.
+- Hardened CI/CD with secret scanning and image vulnerability checks across 5 repositories.
+- Managed EKS clusters running 79 pods with Helm charts and horizontal pod autoscaling.
+
+Projects:
+- Ansible roles automating Linux server baseline configuration.
+- Terraform-provisioned EKS cluster with a sample app and GitOps deployment.
+
+Additional Information:
+- Built GitLab CI pipelines that shipped 3 services to Kubernetes with automated rollbacks.
+- Cut average deployment time from 6 hours to 4 minutes through pipeline automation.
+- Implemented centralized logging with the ELK stack for 67 microservices.
+- Codified 71 cloud resources in Terraform, removing configuration drift across 4 environments.
+- Created Grafana dashboards and alert rules that lowered mean time to recovery by 45%.
+- Reduced monthly AWS spend by 48% using spot instances, autoscaling and rightsizing.

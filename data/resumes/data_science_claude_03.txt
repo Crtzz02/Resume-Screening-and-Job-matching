@@ -1,0 +1,27 @@
+Name: Hiro Santos
+Contact: hiro.santos88@yahoo.com | +44 7129 459190 | Pune, India | github.com/hiro-santos88
+
+Summary:
+Early-career technologist with exposure to data science and adjacent areas. Comfortable picking up new tools such as Parquet and BigQuery, and eager to move deeper into data science roles while collaborating with cross-functional teams.
+
+Education:
+M.Sc. in Applied Statistics, National University of Singapore (2021-2025), GPA 8.0/10
+
+Skills:
+Parquet, BigQuery, ETL/ELT design, SQL, MS Office, Tableau, Jupyter, feature engineering, A/B testing, SQL
+
+Experience:
+Data Science Intern | Tessera Systems | Jan 2025-Jun 2025
+- Built a churn prediction model with XGBoost reaching 26% AUC, helping retention save 18k USD annually.
+- Wrote SQL pipelines transforming 44M rows into analysis-ready feature tables.
+- Built Airflow DAGs orchestrating 6 daily ETL jobs processing 52M records.
+
+Projects:
+- Exploratory analysis and dashboard of public health data.
+- Customer segmentation analysis on retail transactions.
+- Additional: Built Airflow DAGs orchestrating 4 daily ETL jobs processing 43M records.
+- Additional: Built a churn prediction model with XGBoost reaching 30% AUC, helping retention save 29k USD annually.
+- Additional: Developed Spark jobs that cut batch processing time from 12 hours to 31 minutes.
+- Additional: Created demand forecasting models that reduced forecast error by 36%.
+- Additional: Created demand forecasting models that reduced forecast error by 46%.
+- Additional: Developed Spark jobs that cut batch processing time from 11 hours to 29 minutes.

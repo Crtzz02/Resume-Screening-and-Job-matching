@@ -1,0 +1,28 @@
+Name: Grace Petrova
+Contact: grace.petrova55@outlook.com | +44 7586 828719 | Amsterdam, Netherlands | github.com/grace-petrova55
+
+Summary:
+Early-career technologist with exposure to qa automation and adjacent areas. Comfortable picking up new tools such as bug tracking (Jira) and CI integration, and eager to move deeper into qa automation roles while collaborating with cross-functional teams.
+
+Education:
+B.Sc. in Information Technology, Carnegie Mellon University (2022-2026), GPA 7.5/10
+
+Skills:
+bug tracking (Jira), CI integration, typing, Flutter, SwiftUI, push notifications, SQL, Cypress, Firebase, Playwright
+
+Experience:
+QA Intern | Zenith Soft | Jan 2025-Jun 2025
+- Developed Android features with Kotlin and Jetpack Compose used by 94k monthly users.
+- Implemented offline-first sync with Room and background workers.
+- Reduced app crash rate by 22% by fixing memory leaks and adding Crashlytics monitoring.
+
+Projects:
+- Performance test scripts with JMeter.
+- Postman collection and Newman pipeline for a public API.
+- Additional: Built Selenium and TestNG automation covering 26% of regression scenarios.
+- Additional: Developed Android features with Kotlin and Jetpack Compose used by 42k monthly users.
+- Additional: Performed JMeter load tests simulating 15k concurrent users.
+- Additional: Created Playwright end-to-end suites running in CI in 6 minutes.
+- Additional: Automated API tests with REST Assured, finding 77 defects before release.
+- Additional: Automated API tests with REST Assured, finding 91 defects before release.
+- Additional: Developed Android features with Kotlin and Jetpack Compose used by 43k monthly users.

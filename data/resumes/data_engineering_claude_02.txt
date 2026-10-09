@@ -1,0 +1,29 @@
+Name: Meera Bianchi
+Contact: meera.bianchi54@gmail.com | +1 (263) 317-6527 | Austin, TX, USA | github.com/meera-bianchi54
+
+Summary:
+Experienced technologist with exposure to data engineering and adjacent areas. Comfortable picking up new tools such as Excel basics and Delta Lake, and eager to move deeper into data engineering roles while collaborating with cross-functional teams.
+
+Education:
+B.Sc. in Computer Science, Technical University of Munich (2018-2022), GPA 7.8/10
+
+Skills:
+Excel basics, Delta Lake, Kubernetes, Python, ETL/ELT design, Grafana, Helm, Parquet, dbt, BigQuery
+
+Experience:
+Data Engineer | Northwind Tech | 2023-Present
+- Implemented dbt models and tests, improving data quality incident rate by 26%.
+- Built Airflow DAGs orchestrating 12 daily ETL jobs processing 30M records.
+- Developed Spark jobs that cut batch processing time from 11 hours to 85 minutes.
+- Migrated an on-prem warehouse to Snowflake, reducing query costs by 18%.
+
+Junior Data Engineer | Sapphire Commerce | 2020-2023
+- Provisioned AWS infrastructure with Terraform, cutting environment setup from 6 days to 62 hours.
+- Developed Spark jobs that cut batch processing time from 10 hours to 95 minutes.
+- Migrated an on-prem warehouse to Snowflake, reducing query costs by 29%.
+- Operated Kubernetes clusters of 80 nodes with Helm and ArgoCD.
+
+Projects:
+- Streaming pipeline with Kafka and Spark Structured Streaming.
+- Additional: Operated Kubernetes clusters of 20 nodes with Helm and ArgoCD.
+- Additional: Built CI/CD pipelines in GitHub Actions deploying 8 services with zero-downtime rollouts.

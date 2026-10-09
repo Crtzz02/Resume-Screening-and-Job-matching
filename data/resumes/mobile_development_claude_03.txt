@@ -1,0 +1,29 @@
+Name: Marco Weber
+Contact: marco.weber97@yahoo.com | +44 7484 929195 | Amsterdam, Netherlands | linkedin.com/in/marco-weber97
+
+Summary:
+Early-career technologist with exposure to mobile development and adjacent areas. Comfortable picking up new tools such as Kotlin and Kafka, and eager to move deeper into mobile development roles while collaborating with cross-functional teams.
+
+Education:
+B.E. in Information Technology, University of Texas at Austin (2021-2025), GPA 8.0/10
+
+Skills:
+Kotlin, Kafka, Apache Spark, data modeling, typing, REST APIs, SwiftUI, Delta Lake, push notifications, Swift
+
+Experience:
+Junior Android Developer | Polaris Retail | 2025-Present
+- Reduced app crash rate by 40% by fixing memory leaks and adding Crashlytics monitoring.
+- Developed Android features with Kotlin and Jetpack Compose used by 75k monthly users.
+- Built Airflow DAGs orchestrating 11 daily ETL jobs processing 18M records.
+- Implemented dbt models and tests, improving data quality incident rate by 33%.
+
+Junior Android Developer | Bluefin Health | 2024-2025
+- Built cross-platform Flutter modules shared by iOS and Android, saving 38% development effort.
+- Developed Android features with Kotlin and Jetpack Compose used by 68k monthly users.
+- Migrated an on-prem warehouse to Snowflake, reducing query costs by 32%.
+- Developed Spark jobs that cut batch processing time from 2 hours to 36 minutes.
+
+Projects:
+- Expense tracker app with Kotlin, Room and Jetpack Compose.
+- Flutter recipe app with Firebase backend.
+- Additional: Reduced app crash rate by 18% by fixing memory leaks and adding Crashlytics monitoring.

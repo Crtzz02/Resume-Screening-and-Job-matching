@@ -1,0 +1,33 @@
+Name: Samuel Osei
+Contact: samuel.osei49@proton.me | +44 7409 139267 | Berlin, Germany | linkedin.com/in/samuel-osei49
+
+Summary:
+Hardworking and dependable professional with 3 year(s) of experience in customer-facing and administrative roles, now exploring a move into technology. Quick learner with strong communication skills and a recent interest in data science, currently studying through online tutorials.
+
+Education:
+B.A. in Business Administration, City Technical College (2019-2023), GPA 9.0/10
+
+Skills:
+ETL/ELT design, customer service, Python, Apache Spark, data modeling, BigQuery, social media posting, Snowflake, data entry, scheduling, communication
+
+Experience:
+Data Engineer | Stackwise | 2024-Present
+- Built Airflow DAGs orchestrating 5 daily ETL jobs processing 49M records.
+- Coordinated shipments and supplier orders for a retail outlet.
+- Migrated an on-prem warehouse to Snowflake, reducing query costs by 27%.
+- Organized community events and managed volunteers.
+
+Customer Support Executive | Cobalt Networks | 2022-2024
+- Created social media posts and flyers for promotional campaigns.
+- Trained 3 new staff members on customer service procedures.
+- Coordinated shipments and supplier orders for a retail outlet.
+- Organized community events and managed volunteers.
+
+Customer Support Executive | Nimbus Labs | 2021-2022
+- Coordinated shipments and supplier orders for a retail outlet.
+- Prepared weekly sales reports in Excel for the store manager.
+- Resolved customer complaints with a 38% satisfaction rating.
+- Trained 12 new staff members on customer service procedures.
+
+Projects:
+- dbt project modeling an e-commerce dataset.

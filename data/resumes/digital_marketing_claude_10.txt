@@ -1,0 +1,31 @@
+Name: Alina Verma
+Contact: alina.verma36@hotmail.com | +1 308-662-7336 | Lisbon, Portugal | linkedin.com/in/alina-verma
+
+Profile:
+Versatile professional with working knowledge of digital marketing and adjacent disciplines. Has used DAX and customer service in recent roles and is keen to specialize further in digital marketing.
+
+Academic Background:
+BBA in Marketing - SRM Institute of Science and Technology (2012-2015), 66%
+
+Key Competencies:
+DAX, customer service, funnel analysis, data storytelling, Looker Studio, email marketing (Mailchimp, HubSpot), Meta Ads Manager, Google Analytics 4, cohort analysis, LinkedIn campaigns
+
+Professional Experience:
+Lead Analytics Manager, Lighthouse Media (2022 - Present)
+- Built 2 Power BI dashboards tracking revenue and margin that replaced 84 manual Excel reports.
+- Wrote complex SQL joins and window functions to prepare datasets covering 49M transactions.
+- Grew organic traffic by 52% in 9 months through keyword research and on-page SEO.
+- Launched email nurture flows in HubSpot that lifted open rates by 40%.
+
+Business Intelligence Analyst, Orchard Health (2018 - 2022)
+- Managed Google Ads and Meta campaigns with a monthly budget of 83k USD, improving ROAS by 22%.
+- Ran 11 A/B tests on landing pages that improved conversion rate by 46%.
+- Defined and documented 8 core KPIs adopted by the leadership team.
+
+Junior Data Analyst, Crestline Analytics (2014 - 2018)
+- Planned and published 49 social posts per month, increasing engagement by 50%.
+- Automated weekly reporting with Python and scheduled queries, saving 46 hours per month.
+- Identified drop-off points in the customer funnel, leading to a 39% lift in checkout completion.
+
+Projects:
+- SEO audit and content plan for a local e-commerce store.

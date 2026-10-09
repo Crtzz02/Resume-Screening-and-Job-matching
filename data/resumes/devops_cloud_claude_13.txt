@@ -1,0 +1,31 @@
+Name: Victor Berg
+Contact: victor.berg32@zoho.com | +1 213-484-3980 | Munich, Germany | linkedin.com/in/victor-berg
+
+Summary:
+Early-career professional with working knowledge of DevOps and cloud and adjacent disciplines. Has used Azure DevOps and Grafana in recent roles and is keen to specialize further in DevOps and cloud.
+
+Education:
+BCA - Christ University (2021-2024), GPA 3.84/4.0
+
+Skills:
+Azure DevOps, Grafana, ELK stack, GitLab CI, cohort analysis, patient scheduling, Kubernetes, stakeholder reporting, Looker Studio, Tableau, Google Analytics 4
+
+Experience:
+Junior DevOps Engineer, Pinnacle Ledger (2025 - Present)
+- Implemented centralized logging with the ELK stack for 70 microservices.
+- Defined and documented 5 core KPIs adopted by the leadership team.
+- Codified 87 cloud resources in Terraform, removing configuration drift across 4 environments.
+- Reduced monthly AWS spend by 45% using spot instances, autoscaling and rightsizing.
+
+Junior DevOps Engineer, Copperleaf Brands (2024 - 2025)
+- Cut average deployment time from 3 hours to 45 minutes through pipeline automation.
+- Identified drop-off points in the customer funnel, leading to a 30% lift in checkout completion.
+- Automated weekly reporting with Python and scheduled queries, saving 31 hours per month.
+
+Projects:
+- Monitoring stack with Prometheus and Grafana for a home lab.
+- CI/CD pipeline for a Node.js app on Azure DevOps with staged environments.
+
+Additional Information:
+- Wrote complex SQL joins and window functions to prepare datasets covering 61M transactions.
+- Built 7 Power BI dashboards tracking revenue and margin that replaced 87 manual Excel reports.

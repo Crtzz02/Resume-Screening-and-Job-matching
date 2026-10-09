@@ -1,0 +1,28 @@
+Name: Tomas Mehta
+Contact: tomas.mehta79@mail.com | +91 9841743438 | Austin, TX, USA | github.com/tomas-mehta79
+
+Summary:
+Recent graduate specializing in frontend engineering. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in React, responsive design and CSS3/Sass. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+M.S. in Human-Computer Interaction, National University of Singapore (2021-2025), GPA 7.6/10
+
+Skills:
+React, responsive design, CSS3/Sass, Redux, JavaScript (ES6+), web accessibility (WCAG), Next.js, Figma, HTML5, Jest and React Testing Library
+
+Experience:
+Frontend Developer Intern | Cobalt Networks | Jan 2025-Jun 2025
+- Implemented WCAG 2.1 AA accessibility fixes, raising Lighthouse accessibility score to 22.
+- Integrated GraphQL APIs and managed client state with Redux Toolkit.
+- Set up Vite build pipeline that cut build times by 12%.
+
+Projects:
+- Weather dashboard consuming a public API with charts.
+- Personal portfolio built with Next.js and Tailwind CSS.
+- Additional: Implemented WCAG 2.1 AA accessibility fixes, raising Lighthouse accessibility score to 13.
+- Additional: Wrote Jest and React Testing Library tests reaching 27% coverage.
+- Additional: Migrated a legacy jQuery codebase to React and TypeScript with 56k lines refactored.
+- Additional: Set up Vite build pipeline that cut build times by 44%.
+- Additional: Collaborated with designers in Figma to deliver pixel-accurate responsive layouts.
+- Additional: Integrated GraphQL APIs and managed client state with Redux Toolkit.
+- Additional: Migrated a legacy jQuery codebase to React and TypeScript with 8k lines refactored.

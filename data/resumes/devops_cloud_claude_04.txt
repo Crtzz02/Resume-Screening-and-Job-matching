@@ -1,0 +1,34 @@
+Name: Neel Menon
+Contact: neel.menon@icloud.com | +971 51 643 6969 | Ahmedabad, India | linkedin.com/in/neel-menon
+
+Professional Summary:
+4+ years of experience in DevOps and cloud, with a track record of measurable results. Strong in Docker, infrastructure as code and Linux administration; comfortable working with cross-functional teams and communicating outcomes clearly.
+
+Education:
+M.Sc. in Cloud Computing - Boston University (2019-2022), CGPA 8.4/10
+
+Core Skills:
+Docker, infrastructure as code, Linux administration, SRE practices, Terraform, GitOps, Ansible, Grafana, Azure DevOps, ELK stack, Bash scripting
+
+Work Experience:
+Cloud DevOps Engineer, Anchor Foods (2025 - Present)
+- Cut average deployment time from 8 hours to 41 minutes through pipeline automation.
+- Migrated 11 workloads from virtual machines to containers.
+- Codified 15 cloud resources in Terraform, removing configuration drift across 3 environments.
+- Managed EKS clusters running 86 pods with Helm charts and horizontal pod autoscaling.
+
+Junior DevOps Engineer, Harbor & Pine Group (2024 - 2025)
+- Authored runbooks and led on-call rotations for a platform serving 30k users.
+- Reduced monthly AWS spend by 28% using spot instances, autoscaling and rightsizing.
+- Implemented centralized logging with the ELK stack for 62 microservices.
+
+Junior DevOps Engineer, Silverline Retail (2023 - 2024)
+- Built GitLab CI pipelines that shipped 3 services to Kubernetes with automated rollbacks.
+- Created Grafana dashboards and alert rules that lowered mean time to recovery by 43%.
+- Hardened CI/CD with secret scanning and image vulnerability checks across 2 repositories.
+
+Projects:
+- Terraform-provisioned EKS cluster with a sample app and GitOps deployment.
+
+Certifications:
+- HashiCorp Certified: Terraform Associate

@@ -1,0 +1,29 @@
+Name: Mohammed Okafor
+Contact: mohammed.okafor22@proton.me | +44 7527 455231 | Seattle, WA, USA | linkedin.com/in/mohammed-okafor22
+
+Summary:
+Hardworking and dependable professional with 1 year(s) of experience in customer-facing and administrative roles, now exploring a move into technology. Quick learner with strong communication skills and a recent interest in frontend engineering, currently studying through online tutorials.
+
+Education:
+Diploma in Marketing, City Technical College (2022-2026), GPA 7.4/10
+
+Skills:
+cash handling, IAM, VPC networking, MS Office, Azure, event coordination, data entry, customer service, Lambda and serverless, Python, Core Web Vitals
+
+Experience:
+Retail Sales Associate (part-time) | Pixelforge Studio | Jan 2025-Jun 2025
+- Designed multi-AZ AWS architecture achieving 25% uptime for 10 production workloads.
+- Trained 3 new staff members on customer service procedures.
+- Organized community events and managed volunteers.
+
+Projects:
+- Static website hosted on S3 and CloudFront with CI deployment.
+- Multi-tier architecture on Azure with load balancer.
+- Additional: Handled cash register and inventory counts, maintaining 23% accuracy.
+- Additional: Trained 10 new staff members on customer service procedures.
+- Additional: Prepared weekly sales reports in Excel for the store manager.
+- Additional: Created social media posts and flyers for promotional campaigns.
+- Additional: Managed front-desk operations and scheduled appointments for 49 clients per week.
+- Additional: Organized community events and managed volunteers.
+- Additional: Organized community events and managed volunteers.
+- Additional: Trained 8 new staff members on customer service procedures.

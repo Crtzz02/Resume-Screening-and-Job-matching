@@ -1,0 +1,29 @@
+Name: Sneha Zhou
+Contact: sneha.zhou9@gmail.com | +44 7284 512696 | Seattle, WA, USA | linkedin.com/in/sneha-zhou9
+
+Summary:
+Hardworking and dependable professional with 1 year(s) of experience in customer-facing and administrative roles, now exploring a move into technology. Quick learner with strong communication skills and a recent interest in devops engineering, currently studying through online tutorials.
+
+Education:
+B.A. in Business Administration, State Engineering University (2022-2026), GPA 7.3/10
+
+Skills:
+A/B testing, customer service, Bash, Python, Excel basics, cash handling, SQL, data visualization, communication, R, event coordination
+
+Experience:
+Data Science Intern | Quantix Analytics | Jan 2025-Jun 2025
+- Organized community events and managed volunteers.
+- Coordinated shipments and supplier orders for a retail outlet.
+- Resolved customer complaints with a 46% satisfaction rating.
+
+Projects:
+- Exploratory analysis and dashboard of public health data.
+- Time-series forecast of energy consumption with Prophet.
+- Additional: Resolved customer complaints with a 14% satisfaction rating.
+- Additional: Built a churn prediction model with XGBoost reaching 22% AUC, helping retention save 78k USD annually.
+- Additional: Prepared weekly sales reports in Excel for the store manager.
+- Additional: Prepared weekly sales reports in Excel for the store manager.
+- Additional: Coordinated shipments and supplier orders for a retail outlet.
+- Additional: Trained 7 new staff members on customer service procedures.
+- Additional: Prepared weekly sales reports in Excel for the store manager.
+- Additional: Prepared weekly sales reports in Excel for the store manager.

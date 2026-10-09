@@ -1,0 +1,31 @@
+Name: Ananya Sharma
+Contact: ananya.sharma79@gmail.com | +1 (300) 660-1188 | Singapore | github.com/ananya-sharma79
+
+Summary:
+1-year professional specializing in ai engineering. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in vector databases (FAISS, Pinecone), model quantization and RAG pipelines. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.Sc. in Computer Science, University of Waterloo (2021-2025), GPA 7.9/10
+
+Skills:
+vector databases (FAISS, Pinecone), model quantization, RAG pipelines, CUDA basics, LangChain, PyTorch, AWS SageMaker, MLflow, FastAPI, prompt engineering
+
+Experience:
+Junior AI Engineer | Kestrel Security | 2025-Present
+- Set up MLflow experiment tracking and model registry adopted by 11 engineers.
+- Trained a computer vision classifier on 53k labeled images reaching 28% F1.
+- Fine-tuned a transformer model with LoRA, improving task accuracy by 42% over the baseline.
+- Deployed models as FastAPI microservices on Kubernetes with automated canary rollouts.
+
+Junior AI Engineer | Quantix Analytics | 2024-2025
+- Reduced inference cost by 39% through quantization and batching of PyTorch models.
+- Trained a computer vision classifier on 63k labeled images reaching 42% F1.
+- Fine-tuned a transformer model with LoRA, improving task accuracy by 41% over the baseline.
+- Designed an evaluation harness measuring hallucination rate and answer relevance across 89 test suites.
+
+Projects:
+- Sentiment analysis API with a fine-tuned BERT model and Docker packaging.
+- Agentic workflow that routes support tickets using LLM function calling.
+
+Certifications:
+- TensorFlow Developer Certificate

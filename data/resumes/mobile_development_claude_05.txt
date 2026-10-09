@@ -1,0 +1,36 @@
+Name: Priya Hussain
+Contact: priya.hussain30@outlook.com | +91 9849253187 | Bengaluru, India | github.com/priya-hussain30
+
+Summary:
+7-year professional specializing in mobile development. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in App Store deployment, Android Studio and Swift. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.E. in Information Technology, University of Texas at Austin (2015-2019), GPA 7.6/10
+
+Skills:
+App Store deployment, Android Studio, Swift, unit and UI testing, SwiftUI, Dart, push notifications, Jetpack Compose, Firebase, Kotlin
+
+Experience:
+Senior Mobile Engineer | Polaris Retail | 2023-Present
+- Developed Android features with Kotlin and Jetpack Compose used by 75k monthly users.
+- Built cross-platform Flutter modules shared by iOS and Android, saving 24% development effort.
+- Published and maintained 2 apps on Google Play and the App Store.
+- Reduced app crash rate by 21% by fixing memory leaks and adding Crashlytics monitoring.
+
+Mobile Engineer | Zenith Soft | 2020-2023
+- Integrated Firebase authentication and push notifications reaching 83k devices.
+- Cut app startup time by 33% through lazy initialization and profiling.
+- Built cross-platform Flutter modules shared by iOS and Android, saving 37% development effort.
+- Developed Android features with Kotlin and Jetpack Compose used by 7k monthly users.
+
+Junior Android Developer | Sapphire Commerce | 2018-2020
+- Implemented offline-first sync with Room and background workers.
+- Reduced app crash rate by 43% by fixing memory leaks and adding Crashlytics monitoring.
+- Built cross-platform Flutter modules shared by iOS and Android, saving 35% development effort.
+- Integrated Firebase authentication and push notifications reaching 83k devices.
+
+Projects:
+- Flutter recipe app with Firebase backend.
+
+Certifications:
+- Associate Android Developer

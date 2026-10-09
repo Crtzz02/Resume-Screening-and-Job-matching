@@ -1,0 +1,36 @@
+Name: Aarav Petrova
+Contact: aarav.petrova65@proton.me | +91 9866154166 | Dublin, Ireland | linkedin.com/in/aarav-petrova65
+
+Summary:
+10-year professional specializing in data engineering. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in data modeling, Terraform and Parquet. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.E. in Information Technology, Indian Institute of Technology (2012-2016), GPA 7.6/10
+
+Skills:
+data modeling, Terraform, Parquet, ETL/ELT design, AWS Glue, SQL, Kafka, BigQuery, Delta Lake, Airflow
+
+Experience:
+Senior Data Engineer | Ironclad Cyber | 2022-Present
+- Added lineage and monitoring that reduced pipeline failures by 35%.
+- Developed Spark jobs that cut batch processing time from 12 hours to 40 minutes.
+- Implemented dbt models and tests, improving data quality incident rate by 38%.
+- Created star-schema data models supporting 2 analytics teams.
+
+Data Engineer | Tessera Systems | 2018-2022
+- Created star-schema data models supporting 6 analytics teams.
+- Migrated an on-prem warehouse to Snowflake, reducing query costs by 16%.
+- Built Airflow DAGs orchestrating 9 daily ETL jobs processing 65M records.
+- Implemented dbt models and tests, improving data quality incident rate by 38%.
+
+Junior Data Engineer | Atlas Robotics | 2014-2018
+- Built Airflow DAGs orchestrating 3 daily ETL jobs processing 4M records.
+- Provisioned data infrastructure with Terraform for 9 environments.
+- Migrated an on-prem warehouse to Snowflake, reducing query costs by 15%.
+- Created star-schema data models supporting 7 analytics teams.
+
+Projects:
+- Batch ETL pipeline from public APIs into a Postgres warehouse.
+
+Certifications:
+- Google Professional Data Engineer

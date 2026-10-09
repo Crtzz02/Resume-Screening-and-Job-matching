@@ -1,0 +1,33 @@
+Name: Samuel Bianchi
+Contact: samuel.bianchi60@yahoo.com | +1 (714) 584-5255 | Toronto, Canada | linkedin.com/in/samuel-bianchi60
+
+Summary:
+Experienced technologist with exposure to cloud engineering and adjacent areas. Comfortable picking up new tools such as customer service and CloudWatch, and eager to move deeper into cloud engineering roles while collaborating with cross-functional teams.
+
+Education:
+B.Tech in Computer Science, University of Edinburgh (2013-2017), GPA 7.3/10
+
+Skills:
+customer service, CloudWatch, React Native, push notifications, MVVM architecture, Lambda and serverless, CloudFormation, unit and UI testing, Azure, S3 and storage tiers
+
+Experience:
+Senior Cloud Architect | BrightPath Systems | 2022-Present
+- Developed Android features with Kotlin and Jetpack Compose used by 73k monthly users.
+- Reduced monthly cloud bill by 37% via reserved instances and storage lifecycle policies.
+- Implemented serverless pipelines with Lambda and SQS processing 13k events per day.
+- Implemented offline-first sync with Room and background workers.
+
+Cloud Engineer | Nimbus Labs | 2019-2022
+- Reduced monthly cloud bill by 47% via reserved instances and storage lifecycle policies.
+- Migrated 17 on-prem servers to AWS with minimal downtime.
+- Implemented offline-first sync with Room and background workers.
+- Developed Android features with Kotlin and Jetpack Compose used by 54k monthly users.
+
+Cloud Support Engineer | Polaris Retail | 2015-2019
+- Designed multi-AZ AWS architecture achieving 38% uptime for 10 production workloads.
+- Implemented serverless pipelines with Lambda and SQS processing 13k events per day.
+- Implemented offline-first sync with Room and background workers.
+- Reduced app crash rate by 27% by fixing memory leaks and adding Crashlytics monitoring.
+
+Projects:
+- GCP BigQuery cost dashboard.

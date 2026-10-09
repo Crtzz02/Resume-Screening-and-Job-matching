@@ -1,0 +1,31 @@
+Name: Ingrid Chauhan
+Contact: ingrid.chauhan@hotmail.com | +1 602-805-4301 | Chennai, India | linkedin.com/in/ingrid-chauhan
+
+Profile:
+3+ years of experience in data analytics, with a track record of measurable results. Strong in data storytelling, stakeholder reporting and SQL; comfortable working with cross-functional teams and communicating outcomes clearly.
+
+Academic Background:
+B.Tech in Information Technology - Symbiosis International (2020-2023), GPA 3.81/4.0
+
+Key Competencies:
+data storytelling, stakeholder reporting, SQL, BigQuery, Tableau, Looker Studio, dashboarding, Excel (pivot tables, Power Query), funnel analysis, Python (pandas)
+
+Professional Experience:
+Business Intelligence Analyst, Aurora Telecom (2025 - Present)
+- Migrated legacy reports to Looker Studio, cutting refresh time by 11%.
+- Performed cohort and retention analysis that guided a pricing change worth 87k USD.
+- Cleaned and reconciled data from 6 source systems, raising reporting accuracy to over 98%.
+- Presented monthly insights to senior stakeholders and translated findings into clear recommendations.
+
+Junior Data Analyst, Nordic Freight (2024 - 2025)
+- Designed DAX measures for year-over-year and rolling-average comparisons.
+- Built 8 Power BI dashboards tracking revenue and margin that replaced 97 manual Excel reports.
+- Automated weekly reporting with Python and scheduled queries, saving 22 hours per month.
+
+Junior Data Analyst, Axiom Cloudworks (2023 - 2024)
+- Wrote complex SQL joins and window functions to prepare datasets covering 13M transactions.
+- Identified drop-off points in the customer funnel, leading to a 32% lift in checkout completion.
+- Defined and documented 7 core KPIs adopted by the leadership team.
+
+Projects:
+- Customer retention cohort analysis in Python and Tableau.

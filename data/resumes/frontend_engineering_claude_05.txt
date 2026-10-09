@@ -1,0 +1,33 @@
+Name: Rohan Petrova
+Contact: rohan.petrova5@yahoo.com | +44 7354 861276 | Berlin, Germany | github.com/rohan-petrova5
+
+Summary:
+Experienced technologist with exposure to frontend engineering and adjacent areas. Comfortable picking up new tools such as React Native and Firebase, and eager to move deeper into frontend engineering roles while collaborating with cross-functional teams.
+
+Education:
+M.S. in Human-Computer Interaction, University of Waterloo (2015-2019), GPA 7.9/10
+
+Skills:
+React Native, Firebase, GraphQL, App Store deployment, Webpack/Vite, customer service, Figma, Room/Core Data, Jest and React Testing Library, JavaScript (ES6+)
+
+Experience:
+Senior Frontend Engineer | Northwind Tech | 2024-Present
+- Built reusable React component library used across 6 products, speeding feature delivery by 25%.
+- Reduced app crash rate by 40% by fixing memory leaks and adding Crashlytics monitoring.
+- Implemented WCAG 2.1 AA accessibility fixes, raising Lighthouse accessibility score to 36.
+- Improved Largest Contentful Paint by 22% using code splitting, lazy loading and image optimization.
+
+Frontend Engineer | Vantage Digital | 2022-2024
+- Improved Largest Contentful Paint by 22% using code splitting, lazy loading and image optimization.
+- Implemented WCAG 2.1 AA accessibility fixes, raising Lighthouse accessibility score to 17.
+- Reduced app crash rate by 25% by fixing memory leaks and adding Crashlytics monitoring.
+- Built cross-platform Flutter modules shared by iOS and Android, saving 40% development effort.
+
+Junior Frontend Developer | Bluefin Health | 2019-2022
+- Implemented offline-first sync with Room and background workers.
+- Improved Largest Contentful Paint by 14% using code splitting, lazy loading and image optimization.
+- Reduced app crash rate by 22% by fixing memory leaks and adding Crashlytics monitoring.
+- Migrated a legacy jQuery codebase to React and TypeScript with 12k lines refactored.
+
+Projects:
+- E-commerce storefront with React, Redux and Stripe checkout.

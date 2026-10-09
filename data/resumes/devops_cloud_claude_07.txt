@@ -1,0 +1,31 @@
+Name: Zoe Nielsen
+Contact: zoe.nielsen10@gmail.com | +971 52 155 9886 | Dubai, UAE | linkedin.com/in/zoe-nielsen
+
+Profile:
+Versatile professional with working knowledge of DevOps and cloud and adjacent disciplines. Has used front-office reception and Azure DevOps in recent roles and is keen to specialize further in DevOps and cloud.
+
+Academic Background:
+B.E. in Information Technology - Christ University (2011-2014), 81%
+
+Key Competencies:
+front-office reception, Azure DevOps, conversion rate optimization, LinkedIn campaigns, GitLab CI, keyword research, ELK stack, Bash scripting, Grafana
+
+Professional Experience:
+Head of Growth Marketing, Granite Financial (2022 - Present)
+- Reduced monthly AWS spend by 47% using spot instances, autoscaling and rightsizing.
+- Launched email nurture flows in HubSpot that lifted open rates by 45%.
+- Ran 3 A/B tests on landing pages that improved conversion rate by 47%.
+- Codified 37 cloud resources in Terraform, removing configuration drift across 7 environments.
+
+Performance Marketing Manager, Summit Metrics (2018 - 2022)
+- Cut average deployment time from 6 hours to 28 minutes through pipeline automation.
+- Planned and published 64 social posts per month, increasing engagement by 23%.
+- Managed Google Ads and Meta campaigns with a monthly budget of 61k USD, improving ROAS by 45%.
+
+Digital Marketing Executive, Mosaic Labs (2014 - 2018)
+- Implemented centralized logging with the ELK stack for 6 microservices.
+- Built GitLab CI pipelines that shipped 8 services to Kubernetes with automated rollbacks.
+- Grew organic traffic by 44% in 6 months through keyword research and on-page SEO.
+
+Projects:
+- Terraform-provisioned EKS cluster with a sample app and GitOps deployment.

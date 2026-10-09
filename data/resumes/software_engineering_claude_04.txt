@@ -1,0 +1,33 @@
+Name: Ngozi Kim
+Contact: ngozi.kim92@mail.com | +44 7766 511043 | Berlin, Germany | linkedin.com/in/ngozi-kim92
+
+Summary:
+Experienced technologist with exposure to software engineering and adjacent areas. Comfortable picking up new tools such as test planning and BDD with Cucumber, and eager to move deeper into software engineering roles while collaborating with cross-functional teams.
+
+Education:
+M.S. in Computer Science, City Technical College (2011-2015), GPA 7.8/10
+
+Skills:
+test planning, BDD with Cucumber, system design, exploratory testing, Python, Git, SQL, unit testing (JUnit), typing, CI/CD with Jenkins
+
+Experience:
+Senior Software Engineer | Vantage Digital | 2023-Present
+- Optimized PostgreSQL queries and indexes, reducing average response time by 13%.
+- Introduced Kafka-based event processing that handled 41k events per second.
+- Created Playwright end-to-end suites running in CI in 10 minutes.
+- Built Selenium and TestNG automation covering 38% of regression scenarios.
+
+Software Engineer II | Altair Solutions | 2020-2023
+- Created Playwright end-to-end suites running in CI in 9 minutes.
+- Refactored a monolith module into a microservice, cutting deployment time by 34%.
+- Performed JMeter load tests simulating 78k concurrent users.
+- Built Selenium and TestNG automation covering 44% of regression scenarios.
+
+Junior Software Engineer | BrightPath Systems | 2017-2020
+- Refactored a monolith module into a microservice, cutting deployment time by 27%.
+- Introduced Kafka-based event processing that handled 31k events per second.
+- Created Playwright end-to-end suites running in CI in 7 minutes.
+- Automated API tests with REST Assured, finding 71 defects before release.
+
+Projects:
+- URL shortener with Redis caching and rate limiting.

@@ -1,0 +1,33 @@
+Name: Sana Santos
+Contact: sana.santos69@outlook.com | +44 7683 409015 | Austin, TX, USA | linkedin.com/in/sana-santos69
+
+Summary:
+Experienced technologist with exposure to ai engineering and adjacent areas. Comfortable picking up new tools such as Docker and bug tracking (Jira), and eager to move deeper into ai engineering roles while collaborating with cross-functional teams.
+
+Education:
+M.S. in Artificial Intelligence, University of Melbourne (2018-2022), GPA 7.1/10
+
+Skills:
+Docker, bug tracking (Jira), data entry, pytest, vector databases (FAISS, Pinecone), Python, PyTorch, BDD with Cucumber, Cypress, TensorFlow
+
+Experience:
+Machine Learning Engineer | Quantix Analytics | 2024-Present
+- Automated API tests with REST Assured, finding 33 defects before release.
+- Fine-tuned a transformer model with LoRA, improving task accuracy by 47% over the baseline.
+- Performed JMeter load tests simulating 76k concurrent users.
+- Created Playwright end-to-end suites running in CI in 11 minutes.
+
+Junior AI Engineer | Nimbus Labs | 2022-2024
+- Created Playwright end-to-end suites running in CI in 8 minutes.
+- Built Selenium and TestNG automation covering 44% of regression scenarios.
+- Built a retrieval-augmented generation service handling 90k queries per day with p95 latency under 6 ms.
+- Automated API tests with REST Assured, finding 40 defects before release.
+
+Junior AI Engineer | Kestrel Security | 2020-2022
+- Fine-tuned a transformer model with LoRA, improving task accuracy by 31% over the baseline.
+- Reduced inference cost by 13% through quantization and batching of PyTorch models.
+- Created Playwright end-to-end suites running in CI in 7 minutes.
+- Automated API tests with REST Assured, finding 74 defects before release.
+
+Projects:
+- Document Q&A chatbot using RAG, FAISS and an open-source LLM.

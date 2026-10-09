@@ -1,0 +1,36 @@
+Name: Chloe Naidu
+Contact: chloe.naidu26@zoho.com | +44 7372 495187 | Chicago, IL, USA | linkedin.com/in/chloe-naidu
+
+Professional Summary:
+Versatile professional with working knowledge of data analytics and adjacent disciplines. Has used SAP FICO and data cleaning in recent roles and is keen to specialize further in data analytics.
+
+Education:
+M.S. in Business Analytics - Anna University (2012-2015), 80%
+
+Core Skills:
+SAP FICO, data cleaning, QuickBooks, cohort analysis, IFRS/GAAP, tax compliance (GST/VAT), DAX, Google Analytics 4, financial modeling, teaching and tutoring, Power BI, KPI design
+
+Work Experience:
+Lead Analytics Manager, Anchor Foods (2023 - Present)
+- Performed variance analysis explaining deviations of up to 74k USD for department heads.
+- Identified drop-off points in the customer funnel, leading to a 39% lift in checkout completion.
+- Prepared monthly financial statements and closed the books 6 days faster through checklist redesign.
+- Reconciled 50 bank and vendor accounts monthly with zero unresolved items older than 4 days.
+
+Business Intelligence Analyst, Driftwood Commerce (2020 - 2023)
+- Wrote complex SQL joins and window functions to prepare datasets covering 76M transactions.
+- Processed 80k invoices per quarter in SAP with a 98% on-time payment rate.
+- Built 5 Power BI dashboards tracking revenue and margin that replaced 92 manual Excel reports.
+
+Junior Data Analyst, Mosaic Labs (2017 - 2020)
+- Automated weekly reporting with Python and scheduled queries, saving 48 hours per month.
+- Built budget and rolling forecast models that improved forecast accuracy by 25%.
+- Defined and documented 2 core KPIs adopted by the leadership team.
+
+Junior Data Analyst, Tidewater Logistics (2013 - 2017)
+- Automated weekly reporting with Python and scheduled queries, saving 13 hours per month.
+- Reconciled 50 bank and vendor accounts monthly with zero unresolved items older than 4 days.
+- Defined and documented 7 core KPIs adopted by the leadership team.
+
+Projects:
+- Sales performance dashboard in Power BI using a public retail dataset.

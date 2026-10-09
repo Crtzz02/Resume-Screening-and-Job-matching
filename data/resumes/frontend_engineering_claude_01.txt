@@ -1,0 +1,33 @@
+Name: Yuki Silva
+Contact: yuki.silva54@mail.com | +1 (921) 295-3453 | Toronto, Canada | linkedin.com/in/yuki-silva54
+
+Summary:
+Experienced technologist with exposure to frontend engineering and adjacent areas. Comfortable picking up new tools such as Figma and TensorFlow, and eager to move deeper into frontend engineering roles while collaborating with cross-functional teams.
+
+Education:
+B.Sc. in Information Technology, Georgia Institute of Technology (2018-2022), GPA 8.5/10
+
+Skills:
+Figma, TensorFlow, Jest and React Testing Library, Hugging Face Transformers, prompt engineering, React, responsive design, MLflow, MS Office, Core Web Vitals
+
+Experience:
+Frontend Engineer | Ironclad Cyber | 2025-Present
+- Fine-tuned a transformer model with LoRA, improving task accuracy by 32% over the baseline.
+- Implemented WCAG 2.1 AA accessibility fixes, raising Lighthouse accessibility score to 32.
+- Built reusable React component library used across 8 products, speeding feature delivery by 37%.
+- Reduced inference cost by 18% through quantization and batching of PyTorch models.
+
+Junior Frontend Developer | Helio Software | 2023-2025
+- Deployed models as FastAPI microservices on Kubernetes with automated canary rollouts.
+- Implemented WCAG 2.1 AA accessibility fixes, raising Lighthouse accessibility score to 47.
+- Fine-tuned a transformer model with LoRA, improving task accuracy by 20% over the baseline.
+- Improved Largest Contentful Paint by 41% using code splitting, lazy loading and image optimization.
+
+Junior Frontend Developer | Orbit Cloud | 2022-2023
+- Reduced inference cost by 45% through quantization and batching of PyTorch models.
+- Migrated a legacy jQuery codebase to React and TypeScript with 24k lines refactored.
+- Improved Largest Contentful Paint by 23% using code splitting, lazy loading and image optimization.
+- Implemented WCAG 2.1 AA accessibility fixes, raising Lighthouse accessibility score to 20.
+
+Projects:
+- Personal portfolio built with Next.js and Tailwind CSS.

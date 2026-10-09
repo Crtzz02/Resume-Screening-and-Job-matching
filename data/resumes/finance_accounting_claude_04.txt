@@ -1,0 +1,29 @@
+Name: Victor Thakur
+Contact: victor.thakur39@outlook.com | +971 55 366 3229 | Remote | linkedin.com/in/victor-thakur
+
+Profile:
+Early-career professional with working knowledge of finance and accounting and adjacent disciplines. Has used Kubernetes and internal controls in recent roles and is keen to specialize further in finance and accounting.
+
+Academic Background:
+MBA in Finance - Delhi University (2021-2024), GPA 3.46/4.0
+
+Key Competencies:
+Kubernetes, internal controls, SRE practices, SAP FICO, accounts payable and receivable, Tally Prime, warehouse picking, ELK stack, IFRS/GAAP, audit support
+
+Professional Experience:
+Junior DevOps Engineer, Anchor Foods (2024 - Present)
+- Reduced monthly AWS spend by 12% using spot instances, autoscaling and rightsizing.
+- Performed variance analysis explaining deviations of up to 94k USD for department heads.
+- Reconciled 4 bank and vendor accounts monthly with zero unresolved items older than 6 days.
+- Codified 49 cloud resources in Terraform, removing configuration drift across 8 environments.
+
+Projects:
+- Tally and Excel bookkeeping setup for a small business.
+- Case study on working capital optimization for a retail firm.
+
+Additional Information:
+- Built budget and rolling forecast models that improved forecast accuracy by 26%.
+- Prepared monthly financial statements and closed the books 9 days faster through checklist redesign.
+- Implemented centralized logging with the ELK stack for 58 microservices.
+- Processed 88k invoices per quarter in SAP with a 98% on-time payment rate.
+- Built GitLab CI pipelines that shipped 4 services to Kubernetes with automated rollbacks.

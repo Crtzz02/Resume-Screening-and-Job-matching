@@ -1,0 +1,28 @@
+Name: Sneha Joshi
+Contact: sneha.joshi34@proton.me | +44 7748 171593 | Seattle, WA, USA | github.com/sneha-joshi34
+
+Summary:
+Early-career technologist with exposure to mobile development and adjacent areas. Comfortable picking up new tools such as Kotlin and MVVM architecture, and eager to move deeper into mobile development roles while collaborating with cross-functional teams.
+
+Education:
+B.Tech in Computer Science, BITS Pilani (2021-2025), GPA 9.2/10
+
+Skills:
+Kotlin, MVVM architecture, Docker, REST APIs, Jetpack Compose, Go, CI/CD with Jenkins, Android Studio, REST APIs, inventory management
+
+Experience:
+Mobile Developer Intern | Bluefin Health | Jan 2025-Jun 2025
+- Developed 4 REST endpoints in Spring Boot serving 86k requests per minute.
+- Introduced Kafka-based event processing that handled 40k events per second.
+- Optimized PostgreSQL queries and indexes, reducing average response time by 16%.
+
+Projects:
+- SwiftUI habit tracker with local notifications.
+- React Native news reader with offline caching.
+- Additional: Developed Android features with Kotlin and Jetpack Compose used by 11k monthly users.
+- Additional: Optimized PostgreSQL queries and indexes, reducing average response time by 15%.
+- Additional: Developed Android features with Kotlin and Jetpack Compose used by 34k monthly users.
+- Additional: Optimized PostgreSQL queries and indexes, reducing average response time by 21%.
+- Additional: Developed Android features with Kotlin and Jetpack Compose used by 28k monthly users.
+- Additional: Introduced Kafka-based event processing that handled 51k events per second.
+- Additional: Refactored a monolith module into a microservice, cutting deployment time by 42%.

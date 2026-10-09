@@ -1,0 +1,32 @@
+Name: Kofi Petrova
+Contact: kofi.petrova64@gmail.com | +44 7901 344888 | Pune, India | github.com/kofi-petrova64
+
+Summary:
+2-year professional specializing in qa automation. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in TestNG, test planning and CI integration. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.Tech in Computer Science, University of Melbourne (2020-2024), GPA 7.9/10
+
+Skills:
+TestNG, test planning, CI integration, BDD with Cucumber, API testing (Postman, REST Assured), Selenium, Java, Python, exploratory testing, Cypress
+
+Experience:
+QA Engineer | Sapphire Commerce | 2024-Present
+- Performed JMeter load tests simulating 29k concurrent users.
+- Reduced manual regression effort by 15% through test automation.
+- Built Selenium and TestNG automation covering 43% of regression scenarios.
+- Defined test strategy and risk-based test plans for 12 releases.
+
+Projects:
+- Performance test scripts with JMeter.
+- Playwright tests for an open-source web app.
+
+Certifications:
+- Certified Associate in Software Testing
+- Additional: Defined test strategy and risk-based test plans for 11 releases.
+- Additional: Reduced manual regression effort by 25% through test automation.
+- Additional: Built Selenium and TestNG automation covering 32% of regression scenarios.
+- Additional: Reduced manual regression effort by 40% through test automation.
+- Additional: Performed JMeter load tests simulating 48k concurrent users.
+- Additional: Reduced manual regression effort by 17% through test automation.
+- Additional: Automated API tests with REST Assured, finding 12 defects before release.

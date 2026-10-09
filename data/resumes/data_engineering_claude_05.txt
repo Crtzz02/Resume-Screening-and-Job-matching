@@ -1,0 +1,32 @@
+Name: Jonas Hussain
+Contact: jonas.hussain89@proton.me | +44 7213 503867 | Remote | linkedin.com/in/jonas-hussain89
+
+Summary:
+Hardworking and dependable professional with 1 year(s) of experience in customer-facing and administrative roles, now exploring a move into technology. Quick learner with strong communication skills and a recent interest in data engineering, currently studying through online tutorials.
+
+Education:
+B.Sc. in Hospitality Management, City Technical College (2021-2025), GPA 7.4/10
+
+Skills:
+S3 and storage tiers, event coordination, scheduling, Kafka, communication, Azure, GCP, MS Office, VPC networking, social media posting, Terraform
+
+Experience:
+Customer Support Executive | Altair Solutions | 2025-Present
+- Handled cash register and inventory counts, maintaining 17% accuracy.
+- Organized community events and managed volunteers.
+- Created social media posts and flyers for promotional campaigns.
+- Migrated 64 on-prem servers to AWS with minimal downtime.
+
+Customer Support Executive | Northwind Tech | 2024-2025
+- Created social media posts and flyers for promotional campaigns.
+- Organized community events and managed volunteers.
+- Designed multi-AZ AWS architecture achieving 45% uptime for 4 production workloads.
+- Coordinated shipments and supplier orders for a retail outlet.
+
+Projects:
+- Multi-tier architecture on Azure with load balancer.
+- GCP BigQuery cost dashboard.
+- Additional: Handled cash register and inventory counts, maintaining 44% accuracy.
+- Additional: Handled cash register and inventory counts, maintaining 33% accuracy.
+- Additional: Created social media posts and flyers for promotional campaigns.
+- Additional: Resolved customer complaints with a 37% satisfaction rating.

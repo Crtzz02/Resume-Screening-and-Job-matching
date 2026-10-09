@@ -1,0 +1,31 @@
+Name: Chloe Martin
+Contact: chloe.martin69@icloud.com | +971 54 927 5261 | Gurugram, India | linkedin.com/in/chloe-martin
+
+Profile:
+1+ years of experience in data analytics, with a track record of measurable results. Strong in Excel (pivot tables, Power Query), funnel analysis and Google Analytics 4; comfortable working with cross-functional teams and communicating outcomes clearly.
+
+Academic Background:
+B.Tech in Information Technology - Anna University (2022-2025), 88%
+
+Key Competencies:
+Excel (pivot tables, Power Query), funnel analysis, Google Analytics 4, data cleaning, cohort analysis, descriptive statistics, SQL, KPI design, Python (pandas), dashboarding, Looker Studio, DAX
+
+Professional Experience:
+Junior Data Analyst, Driftwood Commerce (2024 - Present)
+- Automated weekly reporting with Python and scheduled queries, saving 35 hours per month.
+- Cleaned and reconciled data from 10 source systems, raising reporting accuracy to over 98%.
+- Built 7 Power BI dashboards tracking revenue and margin that replaced 15 manual Excel reports.
+- Wrote complex SQL joins and window functions to prepare datasets covering 72M transactions.
+
+Projects:
+- SQL case study analyzing ride-sharing trips and driver incentives.
+- Sales performance dashboard in Power BI using a public retail dataset.
+
+Certifications:
+- Google Data Analytics Professional Certificate
+
+Additional Information:
+- Migrated legacy reports to Looker Studio, cutting refresh time by 11%.
+- Identified drop-off points in the customer funnel, leading to a 40% lift in checkout completion.
+- Presented monthly insights to senior stakeholders and translated findings into clear recommendations.
+- Performed cohort and retention analysis that guided a pricing change worth 67k USD.

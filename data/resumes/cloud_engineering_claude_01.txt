@@ -1,0 +1,33 @@
+Name: Liam Joshi
+Contact: liam.joshi32@gmail.com | +44 7437 258224 | Remote | github.com/liam-joshi32
+
+Summary:
+Hardworking and dependable professional with 3 year(s) of experience in customer-facing and administrative roles, now exploring a move into technology. Quick learner with strong communication skills and a recent interest in cloud engineering, currently studying through online tutorials.
+
+Education:
+B.E. in Electronics and Communication, University of Edinburgh (2019-2023), GPA 8.1/10
+
+Skills:
+Excel basics, customer service, communication, LLM fine-tuning (LoRA), Hugging Face Transformers, cost optimization, LangChain, scheduling, AWS SageMaker, MS Office, MLflow
+
+Experience:
+Machine Learning Engineer | Zenith Soft | 2025-Present
+- Fine-tuned a transformer model with LoRA, improving task accuracy by 15% over the baseline.
+- Managed front-desk operations and scheduled appointments for 33 clients per week.
+- Resolved customer complaints with a 30% satisfaction rating.
+- Coordinated shipments and supplier orders for a retail outlet.
+
+Customer Support Executive | Helio Software | 2023-2025
+- Created social media posts and flyers for promotional campaigns.
+- Trained 12 new staff members on customer service procedures.
+- Handled cash register and inventory counts, maintaining 36% accuracy.
+- Built a retrieval-augmented generation service handling 46k queries per day with p95 latency under 2 ms.
+
+Customer Support Executive | Vantage Digital | 2022-2023
+- Coordinated shipments and supplier orders for a retail outlet.
+- Resolved customer complaints with a 39% satisfaction rating.
+- Handled cash register and inventory counts, maintaining 37% accuracy.
+- Fine-tuned a transformer model with LoRA, improving task accuracy by 45% over the baseline.
+
+Projects:
+- Agentic workflow that routes support tickets using LLM function calling.

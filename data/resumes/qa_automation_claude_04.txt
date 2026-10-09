@@ -1,0 +1,33 @@
+Name: Ananya Wang
+Contact: ananya.wang50@gmail.com | +1 (531) 790-2962 | Bengaluru, India | github.com/ananya-wang50
+
+Summary:
+7-year professional specializing in qa automation. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in Cypress, SQL and Java. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.Sc. in Information Technology, National University of Singapore (2015-2019), GPA 7.2/10
+
+Skills:
+Cypress, SQL, Java, Playwright, Python, JMeter, exploratory testing, pytest, test planning, bug tracking (Jira)
+
+Experience:
+Senior SDET | Nimbus Labs | 2023-Present
+- Performed JMeter load tests simulating 40k concurrent users.
+- Created Playwright end-to-end suites running in CI in 7 minutes.
+- Reduced manual regression effort by 33% through test automation.
+- Defined test strategy and risk-based test plans for 2 releases.
+
+SDET | Ironclad Cyber | 2021-2023
+- Built Selenium and TestNG automation covering 18% of regression scenarios.
+- Introduced flaky-test dashboards that cut test failures by 21%.
+- Created Playwright end-to-end suites running in CI in 7 minutes.
+- Reduced manual regression effort by 45% through test automation.
+
+QA Engineer | Fathom AI | 2019-2021
+- Automated API tests with REST Assured, finding 27 defects before release.
+- Performed JMeter load tests simulating 61k concurrent users.
+- Defined test strategy and risk-based test plans for 10 releases.
+- Created Playwright end-to-end suites running in CI in 8 minutes.
+
+Projects:
+- Performance test scripts with JMeter.

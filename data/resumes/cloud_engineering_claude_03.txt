@@ -1,0 +1,28 @@
+Name: Ravi Santos
+Contact: ravi.santos49@proton.me | +1 (629) 355-1520 | London, UK | github.com/ravi-santos49
+
+Summary:
+Recent graduate specializing in cloud engineering. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in RDS, disaster recovery and GCP. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.Tech in Computer Science, University of Texas at Austin (2022-2026), GPA 7.6/10
+
+Skills:
+RDS, disaster recovery, GCP, S3 and storage tiers, VPC networking, CloudWatch, cost optimization, Azure, Lambda and serverless, CloudFormation
+
+Experience:
+Cloud Engineering Intern | Atlas Robotics | Jan 2025-Jun 2025
+- Reduced monthly cloud bill by 36% via reserved instances and storage lifecycle policies.
+- Authored disaster-recovery plan with RTO of 8 hours and tested it quarterly.
+- Implemented serverless pipelines with Lambda and SQS processing 54k events per day.
+
+Projects:
+- GCP BigQuery cost dashboard.
+- Serverless image-processing pipeline using S3 and Lambda.
+- Additional: Authored disaster-recovery plan with RTO of 8 hours and tested it quarterly.
+- Additional: Authored disaster-recovery plan with RTO of 8 hours and tested it quarterly.
+- Additional: Migrated 89 on-prem servers to AWS with minimal downtime.
+- Additional: Migrated 20 on-prem servers to AWS with minimal downtime.
+- Additional: Built landing zones with IAM guardrails and centralized logging across 11 accounts.
+- Additional: Migrated 16 on-prem servers to AWS with minimal downtime.
+- Additional: Authored disaster-recovery plan with RTO of 4 hours and tested it quarterly.

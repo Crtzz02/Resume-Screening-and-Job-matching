@@ -1,0 +1,33 @@
+Name: Tomas Ahmed
+Contact: tomas.ahmed1@proton.me | +1 (331) 640-4140 | London, UK | linkedin.com/in/tomas-ahmed1
+
+Summary:
+4-year professional specializing in cybersecurity. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in network security, Nmap and incident response. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+M.S. in Cybersecurity, Georgia Institute of Technology (2018-2022), GPA 9.4/10
+
+Skills:
+network security, Nmap, incident response, IAM, threat modeling, Python scripting, Linux hardening, MITRE ATT&CK, Burp Suite, SIEM (Splunk)
+
+Experience:
+Security Engineer | Pixelforge Studio | 2025-Present
+- Conducted penetration tests on 7 web applications, reporting and helping remediate 74 vulnerabilities.
+- Hardened Linux servers following CIS benchmarks across 24 hosts.
+- Delivered security awareness training to 73 staff, reducing phishing click rates by 19%.
+- Led incident response for a phishing campaign, containing it within 6 hours.
+
+SOC Analyst | Quantix Analytics | 2023-2025
+- Led incident response for a phishing campaign, containing it within 3 hours.
+- Conducted penetration tests on 6 web applications, reporting and helping remediate 82 vulnerabilities.
+- Implemented least-privilege IAM policies and MFA for 9 employees.
+- Built Splunk detection rules mapped to MITRE ATT&CK, cutting false positives by 42%.
+
+SOC Analyst | Northwind Tech | 2022-2023
+- Ran Nessus vulnerability scans and drove patch compliance up to 25%.
+- Conducted penetration tests on 3 web applications, reporting and helping remediate 42 vulnerabilities.
+- Built Splunk detection rules mapped to MITRE ATT&CK, cutting false positives by 16%.
+- Led incident response for a phishing campaign, containing it within 7 hours.
+
+Projects:
+- Home lab with pfSense firewall and Splunk log monitoring.

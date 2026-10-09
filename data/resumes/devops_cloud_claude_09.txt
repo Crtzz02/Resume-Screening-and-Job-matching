@@ -1,0 +1,29 @@
+Name: Elif Volkov
+Contact: elif.volkov3@icloud.com | +91 9552 83995 | Boston, MA, USA | linkedin.com/in/elif-volkov
+
+Profile:
+Early-career professional with working knowledge of DevOps and cloud and adjacent disciplines. Has used infrastructure as code and Prometheus in recent roles and is keen to specialize further in DevOps and cloud.
+
+Academic Background:
+B.Sc. in Networking - Boston University (2023-2026), 66%
+
+Key Competencies:
+infrastructure as code, Prometheus, AWS (EC2, S3, EKS), front-office reception, bank reconciliation, budgeting and forecasting, Grafana, month-end close, Tally Prime, SAP FICO
+
+Professional Experience:
+Cloud Operations Trainee, Crestline Analytics (Jun 2025 - Dec 2025)
+- Reconciled 71 bank and vendor accounts monthly with zero unresolved items older than 5 days.
+- Cut average deployment time from 11 hours to 46 minutes through pipeline automation.
+- Processed 74k invoices per quarter in SAP with a 98% on-time payment rate.
+
+Projects:
+- Monitoring stack with Prometheus and Grafana for a home lab.
+- Ansible roles automating Linux server baseline configuration.
+
+Additional Information:
+- Prepared monthly financial statements and closed the books 5 days faster through checklist redesign.
+- Implemented centralized logging with the ELK stack for 57 microservices.
+- Performed variance analysis explaining deviations of up to 15k USD for department heads.
+- Reduced monthly AWS spend by 51% using spot instances, autoscaling and rightsizing.
+- Codified 4 cloud resources in Terraform, removing configuration drift across 8 environments.
+- Built GitLab CI pipelines that shipped 3 services to Kubernetes with automated rollbacks.

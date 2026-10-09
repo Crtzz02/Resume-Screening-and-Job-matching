@@ -1,0 +1,29 @@
+Name: Yash Bose
+Contact: yash.bose@icloud.com | +91 9198 53920 | Vancouver, Canada | linkedin.com/in/yash-bose
+
+Summary:
+Early-career professional with working knowledge of digital marketing and adjacent disciplines. Has used dashboarding and data storytelling in recent roles and is keen to specialize further in digital marketing.
+
+Education:
+M.A. in Digital Media - Northeastern University (2022-2025), 74%
+
+Skills:
+dashboarding, data storytelling, DAX, Meta Ads Manager, influencer outreach, social media strategy, A/B testing, warehouse picking
+
+Experience:
+Data Analyst Trainee, Lighthouse Media (Jun 2025 - Dec 2025)
+- Wrote complex SQL joins and window functions to prepare datasets covering 74M transactions.
+- Managed Google Ads and Meta campaigns with a monthly budget of 68k USD, improving ROAS by 14%.
+- Ran 4 A/B tests on landing pages that improved conversion rate by 35%.
+
+Projects:
+- Instagram growth campaign for a student club reaching 87k accounts.
+- Email welcome series built in Mailchimp with segmentation.
+
+Additional Information:
+- Built 9 Power BI dashboards tracking revenue and margin that replaced 50 manual Excel reports.
+- Defined and documented 5 core KPIs adopted by the leadership team.
+- Launched email nurture flows in HubSpot that lifted open rates by 46%.
+- Identified drop-off points in the customer funnel, leading to a 50% lift in checkout completion.
+- Planned and published 37 social posts per month, increasing engagement by 45%.
+- Automated weekly reporting with Python and scheduled queries, saving 43 hours per month.

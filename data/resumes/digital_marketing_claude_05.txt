@@ -1,0 +1,34 @@
+Name: Farid Ortega
+Contact: farid.ortega@zoho.com | +971 52 269 4152 | Ahmedabad, India | linkedin.com/in/farid-ortega
+
+Profile:
+Reliable, people-oriented professional with 5 years in service and support roles looking to transition into digital marketing. Good communicator, fast learner and currently completing introductory online courses.
+
+Academic Background:
+MBA in Marketing - Monash University (2018-2021), 75%
+
+Key Competencies:
+C++, WordPress themes, GitOps, front-office reception, Java, teaching and tutoring, Kubernetes, patient scheduling, event management, LinkedIn campaigns
+
+Professional Experience:
+Front Office Supervisor, Harbor & Pine Group (2024 - Present)
+- Organized 9 college fests and handled sponsor communication.
+- Packed and dispatched 75 orders per shift in a warehouse with over 98% accuracy.
+- Managed front-desk reception, phone calls and visitor logs for a clinic.
+- Assisted 89 customers per day at the service counter and handled returns and exchanges.
+
+Customer Service Representative, Lighthouse Media (2022 - 2024)
+- Tutored 68 school students in mathematics and science after hours.
+- Supervised 11 part-time staff and prepared weekly duty rosters.
+- Photographed events and edited 19 albums for local clients.
+
+Customer Service Representative, Redwood Capital Partners (2020 - 2022)
+- Repaired and configured 18 desktop computers for walk-in customers.
+
+Projects:
+- Monitoring stack with Prometheus and Grafana for a home lab.
+
+Additional Information:
+- Packed and dispatched 15 orders per shift in a warehouse with over 98% accuracy.
+- Tutored 77 school students in mathematics and science after hours.
+- Managed front-desk reception, phone calls and visitor logs for a clinic.

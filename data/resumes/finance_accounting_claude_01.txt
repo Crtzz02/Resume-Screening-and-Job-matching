@@ -1,0 +1,29 @@
+Name: Chloe Gupta
+Contact: chloe.gupta74@gmail.com | +44 7505 460787 | Munich, Germany | linkedin.com/in/chloe-gupta
+
+Summary:
+Early-career professional with working knowledge of finance and accounting and adjacent disciplines. Has used Google Analytics 4 and financial modeling in recent roles and is keen to specialize further in finance and accounting.
+
+Education:
+B.A. in Economics - University of Manchester (2022-2025), GPA 3.55/4.0
+
+Skills:
+Google Analytics 4, financial modeling, Looker Studio, Power BI, event management, KPI design, Tally Prime, cohort analysis, general ledger accounting, budgeting and forecasting
+
+Experience:
+Accounts Assistant Trainee, Orchard Health (Jun 2025 - Dec 2025)
+- Built budget and rolling forecast models that improved forecast accuracy by 37%.
+- Wrote complex SQL joins and window functions to prepare datasets covering 19M transactions.
+- Prepared monthly financial statements and closed the books 11 days faster through checklist redesign.
+
+Projects:
+- Tally and Excel bookkeeping setup for a small business.
+- Budget versus actual variance dashboard in Excel.
+
+Additional Information:
+- Identified drop-off points in the customer funnel, leading to a 22% lift in checkout completion.
+- Defined and documented 2 core KPIs adopted by the leadership team.
+- Automated weekly reporting with Python and scheduled queries, saving 45 hours per month.
+- Performed variance analysis explaining deviations of up to 39k USD for department heads.
+- Built 9 Power BI dashboards tracking revenue and margin that replaced 76 manual Excel reports.
+- Reconciled 68 bank and vendor accounts monthly with zero unresolved items older than 5 days.

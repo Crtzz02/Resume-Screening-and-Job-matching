@@ -1,0 +1,30 @@
+Name: Lucas Reddy
+Contact: lucas.reddy21@yahoo.com | +91 9832971220 | Remote | linkedin.com/in/lucas-reddy21
+
+Summary:
+2-year professional specializing in frontend engineering. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in HTML5, TypeScript and web accessibility (WCAG). Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.Sc. in Information Technology, City Technical College (2020-2024), GPA 7.7/10
+
+Skills:
+HTML5, TypeScript, web accessibility (WCAG), Figma, Next.js, Webpack/Vite, Tailwind CSS, GraphQL, JavaScript (ES6+), Core Web Vitals
+
+Experience:
+Junior Frontend Developer | Meridian Fintech | 2025-Present
+- Migrated a legacy jQuery codebase to React and TypeScript with 54k lines refactored.
+- Built reusable React component library used across 3 products, speeding feature delivery by 24%.
+- Wrote Jest and React Testing Library tests reaching 37% coverage.
+- Integrated GraphQL APIs and managed client state with Redux Toolkit.
+
+Junior Frontend Developer | Fathom AI | 2024-2025
+- Migrated a legacy jQuery codebase to React and TypeScript with 54k lines refactored.
+- Improved Largest Contentful Paint by 25% using code splitting, lazy loading and image optimization.
+- Collaborated with designers in Figma to deliver pixel-accurate responsive layouts.
+- Integrated GraphQL APIs and managed client state with Redux Toolkit.
+
+Projects:
+- Personal portfolio built with Next.js and Tailwind CSS.
+- Kanban board with drag-and-drop and TypeScript.
+- Additional: Wrote Jest and React Testing Library tests reaching 15% coverage.
+- Additional: Collaborated with designers in Figma to deliver pixel-accurate responsive layouts.

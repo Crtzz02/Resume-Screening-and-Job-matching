@@ -1,0 +1,28 @@
+Name: Fatima Hussain
+Contact: fatima.hussain29@mail.com | +1 (889) 374-6069 | Sydney, Australia | linkedin.com/in/fatima-hussain29
+
+Summary:
+Recent graduate specializing in software engineering. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in Redis, Java and unit testing (JUnit). Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+M.S. in Computer Science, Carnegie Mellon University (2022-2026), GPA 8.7/10
+
+Skills:
+Redis, Java, unit testing (JUnit), PostgreSQL, Git, Python, Kafka, CI/CD with Jenkins, microservices, Go
+
+Experience:
+Software Engineering Intern | Bluefin Health | Jan 2025-Jun 2025
+- Led code reviews and mentored 7 junior developers on clean architecture.
+- Optimized PostgreSQL queries and indexes, reducing average response time by 31%.
+- Introduced Kafka-based event processing that handled 30k events per second.
+
+Projects:
+- Real-time chat server in Go using WebSockets.
+- URL shortener with Redis caching and rate limiting.
+- Additional: Refactored a monolith module into a microservice, cutting deployment time by 32%.
+- Additional: Automated releases with Jenkins and Docker, shortening the release cycle from 12 days to 1 day.
+- Additional: Led code reviews and mentored 3 junior developers on clean architecture.
+- Additional: Optimized PostgreSQL queries and indexes, reducing average response time by 45%.
+- Additional: Implemented caching with Redis, lowering database load by 25%.
+- Additional: Developed 5 REST endpoints in Spring Boot serving 62k requests per minute.
+- Additional: Implemented caching with Redis, lowering database load by 20%.

@@ -1,0 +1,29 @@
+Name: Victor Malhotra
+Contact: victor.malhotra@gmail.com | +44 7380 719012 | Chicago, IL, USA | linkedin.com/in/victor-malhotra
+
+Professional Summary:
+Early-career professional with working knowledge of data analytics and adjacent disciplines. Has used data cleaning and GitOps in recent roles and is keen to specialize further in data analytics.
+
+Education:
+B.Tech in Information Technology - Rotterdam School of Management (2022-2025), 85%
+
+Core Skills:
+data cleaning, GitOps, customer service, Ansible, Jenkins, Grafana, Google Analytics 4, KPI design, Python (pandas), AWS (EC2, S3, EKS)
+
+Work Experience:
+Junior Data Analyst, Sundial Consulting (2025 - Present)
+- Automated weekly reporting with Python and scheduled queries, saving 24 hours per month.
+- Wrote complex SQL joins and window functions to prepare datasets covering 4M transactions.
+- Implemented centralized logging with the ELK stack for 14 microservices.
+- Defined and documented 6 core KPIs adopted by the leadership team.
+
+Projects:
+- Excel financial model and dashboard for a small business.
+- Sales performance dashboard in Power BI using a public retail dataset.
+
+Additional Information:
+- Identified drop-off points in the customer funnel, leading to a 30% lift in checkout completion.
+- Built GitLab CI pipelines that shipped 4 services to Kubernetes with automated rollbacks.
+- Codified 41 cloud resources in Terraform, removing configuration drift across 9 environments.
+- Built 2 Power BI dashboards tracking revenue and margin that replaced 58 manual Excel reports.
+- Reduced monthly AWS spend by 14% using spot instances, autoscaling and rightsizing.

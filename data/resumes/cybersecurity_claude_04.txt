@@ -1,0 +1,27 @@
+Name: Isabella Haddad
+Contact: isabella.haddad37@mail.com | +1 (769) 642-4292 | Amsterdam, Netherlands | github.com/isabella-haddad37
+
+Summary:
+Early-career technologist with exposure to cybersecurity and adjacent areas. Comfortable picking up new tools such as incident response and MITRE ATT&CK, and eager to move deeper into cybersecurity roles while collaborating with cross-functional teams.
+
+Education:
+B.E. in Electronics and Networking, University of Waterloo (2021-2025), GPA 8.2/10
+
+Skills:
+incident response, MITRE ATT&CK, threat modeling, inventory management, firewalls, XGBoost, Jupyter, vulnerability management (Nessus), time-series forecasting, scikit-learn
+
+Experience:
+SOC Analyst | Polaris Retail | 2025-Present
+- Built a churn prediction model with XGBoost reaching 29% AUC, helping retention save 61k USD annually.
+- Wrote SQL pipelines transforming 95M rows into analysis-ready feature tables.
+- Led incident response for a phishing campaign, containing it within 2 hours.
+- Designed and analyzed 7 A/B tests, informing product decisions that lifted conversion by 16%.
+
+Projects:
+- Python port scanner and log analyzer for detecting brute-force attempts.
+- Capture-the-flag write-ups on web exploitation and cryptography.
+- Additional: Conducted penetration tests on 12 web applications, reporting and helping remediate 18 vulnerabilities.
+- Additional: Conducted penetration tests on 2 web applications, reporting and helping remediate 93 vulnerabilities.
+- Additional: Built Splunk detection rules mapped to MITRE ATT&CK, cutting false positives by 48%.
+- Additional: Designed and analyzed 6 A/B tests, informing product decisions that lifted conversion by 29%.
+- Additional: Monitored SIEM alerts and triaged 89 incidents per week with mean time to respond under 6 minutes.

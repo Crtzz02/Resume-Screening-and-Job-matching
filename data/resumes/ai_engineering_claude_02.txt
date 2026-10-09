@@ -1,0 +1,29 @@
+Name: Sneha Haddad
+Contact: sneha.haddad26@proton.me | +1 (209) 233-3455 | Dublin, Ireland | github.com/sneha-haddad26
+
+Summary:
+Hardworking and dependable professional with 1 year(s) of experience in customer-facing and administrative roles, now exploring a move into technology. Quick learner with strong communication skills and a recent interest in ai engineering, currently studying through online tutorials.
+
+Education:
+B.Tech in Computer Science, BITS Pilani (2021-2025), GPA 8.8/10
+
+Skills:
+load balancing, cash handling, cost optimization, Excel basics, event coordination, LLM fine-tuning (LoRA), S3 and storage tiers, Python, scheduling, customer service, Terraform
+
+Experience:
+Cloud Engineering Intern | Lumen Data | Jan 2025-Jun 2025
+- Coordinated shipments and supplier orders for a retail outlet.
+- Trained 11 new staff members on customer service procedures.
+- Created social media posts and flyers for promotional campaigns.
+
+Projects:
+- Multi-tier architecture on Azure with load balancer.
+- Serverless image-processing pipeline using S3 and Lambda.
+- Additional: Managed front-desk operations and scheduled appointments for 43 clients per week.
+- Additional: Created social media posts and flyers for promotional campaigns.
+- Additional: Prepared weekly sales reports in Excel for the store manager.
+- Additional: Migrated 91 on-prem servers to AWS with minimal downtime.
+- Additional: Handled cash register and inventory counts, maintaining 22% accuracy.
+- Additional: Trained 6 new staff members on customer service procedures.
+- Additional: Coordinated shipments and supplier orders for a retail outlet.
+- Additional: Prepared weekly sales reports in Excel for the store manager.

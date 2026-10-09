@@ -1,0 +1,31 @@
+Name: Zara Osei
+Contact: zara.osei95@outlook.com | +44 7500 144035 | Hyderabad, India | github.com/zara-osei95
+
+Summary:
+2-year professional specializing in cloud engineering. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in VPC networking, CloudFormation and GCP. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.Sc. in Information Technology, City Technical College (2020-2024), GPA 7.7/10
+
+Skills:
+VPC networking, CloudFormation, GCP, load balancing, disaster recovery, Terraform, AWS, RDS, cost optimization, Azure
+
+Experience:
+Cloud Support Engineer | Ironclad Cyber | 2024-Present
+- Advised 4 product teams on well-architected design reviews.
+- Built landing zones with IAM guardrails and centralized logging across 7 accounts.
+- Implemented serverless pipelines with Lambda and SQS processing 80k events per day.
+- Authored disaster-recovery plan with RTO of 5 hours and tested it quarterly.
+
+Cloud Support Engineer | Stackwise | 2023-2024
+- Automated infrastructure with CloudFormation and Terraform templates.
+- Built landing zones with IAM guardrails and centralized logging across 12 accounts.
+- Migrated 59 on-prem servers to AWS with minimal downtime.
+- Designed multi-AZ AWS architecture achieving 41% uptime for 4 production workloads.
+
+Projects:
+- Static website hosted on S3 and CloudFront with CI deployment.
+- Serverless image-processing pipeline using S3 and Lambda.
+- Additional: Implemented serverless pipelines with Lambda and SQS processing 14k events per day.
+- Additional: Automated infrastructure with CloudFormation and Terraform templates.
+- Additional: Reduced monthly cloud bill by 48% via reserved instances and storage lifecycle policies.

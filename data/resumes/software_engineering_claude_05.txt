@@ -1,0 +1,27 @@
+Name: Tomas Ivanov
+Contact: tomas.ivanov72@yahoo.com | +91 9859322027 | Seattle, WA, USA | linkedin.com/in/tomas-ivanov72
+
+Summary:
+Recent graduate specializing in software engineering. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in REST APIs, microservices and PostgreSQL. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+M.S. in Computer Science, Technical University of Munich (2021-2025), GPA 8.3/10
+
+Skills:
+REST APIs, microservices, PostgreSQL, Go, Docker, Java, system design, Kubernetes, Python, Kafka
+
+Experience:
+Software Engineering Intern | Orbit Cloud | Jan 2025-Jun 2025
+- Introduced Kafka-based event processing that handled 51k events per second.
+- Optimized PostgreSQL queries and indexes, reducing average response time by 47%.
+- Automated releases with Jenkins and Docker, shortening the release cycle from 6 days to 1 day.
+
+Projects:
+- Library management system with Spring Boot and PostgreSQL.
+- URL shortener with Redis caching and rate limiting.
+- Additional: Raised unit test coverage from 3% to 14% and added integration tests to the CI pipeline.
+- Additional: Refactored a monolith module into a microservice, cutting deployment time by 48%.
+- Additional: Refactored a monolith module into a microservice, cutting deployment time by 48%.
+- Additional: Automated releases with Jenkins and Docker, shortening the release cycle from 9 days to 1 day.
+- Additional: Developed 7 REST endpoints in Spring Boot serving 22k requests per minute.
+- Additional: Developed 8 REST endpoints in Spring Boot serving 16k requests per minute.

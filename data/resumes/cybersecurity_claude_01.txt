@@ -1,0 +1,33 @@
+Name: Andre Hussain
+Contact: andre.hussain52@mail.com | +1 (823) 585-2744 | Dublin, Ireland | github.com/andre-hussain52
+
+Summary:
+10-year professional specializing in cybersecurity. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in penetration testing, network security and MITRE ATT&CK. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.Tech in Computer Science (Cyber Security), Pune Institute of Technology (2012-2016), GPA 9.4/10
+
+Skills:
+penetration testing, network security, MITRE ATT&CK, threat modeling, Python scripting, firewalls, OWASP Top 10, Wireshark, incident response, Nmap
+
+Experience:
+Senior Security Engineer | Fathom AI | 2022-Present
+- Monitored SIEM alerts and triaged 12 incidents per week with mean time to respond under 5 minutes.
+- Conducted penetration tests on 7 web applications, reporting and helping remediate 9 vulnerabilities.
+- Implemented least-privilege IAM policies and MFA for 61 employees.
+- Delivered security awareness training to 69 staff, reducing phishing click rates by 15%.
+
+Security Engineer | Northwind Tech | 2018-2022
+- Built Splunk detection rules mapped to MITRE ATT&CK, cutting false positives by 18%.
+- Monitored SIEM alerts and triaged 12 incidents per week with mean time to respond under 11 minutes.
+- Led incident response for a phishing campaign, containing it within 4 hours.
+- Conducted penetration tests on 2 web applications, reporting and helping remediate 74 vulnerabilities.
+
+SOC Analyst | Altair Solutions | 2014-2018
+- Hardened Linux servers following CIS benchmarks across 27 hosts.
+- Ran Nessus vulnerability scans and drove patch compliance up to 29%.
+- Delivered security awareness training to 84 staff, reducing phishing click rates by 22%.
+- Led incident response for a phishing campaign, containing it within 8 hours.
+
+Projects:
+- Threat model and risk assessment for a student web portal.

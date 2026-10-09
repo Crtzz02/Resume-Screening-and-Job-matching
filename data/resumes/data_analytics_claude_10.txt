@@ -1,0 +1,29 @@
+Name: Yash Desai
+Contact: yash.desai35@outlook.com | +1 466-660-7998 | Remote | linkedin.com/in/yash-desai
+
+Professional Summary:
+Early-career professional with working knowledge of data analytics and adjacent disciplines. Has used SQL and dashboarding in recent roles and is keen to specialize further in data analytics.
+
+Education:
+B.Tech in Information Technology - Northeastern University (2023-2026), GPA 2.99/4.0
+
+Core Skills:
+SQL, dashboarding, LinkedIn campaigns, event management, A/B testing, social media strategy, email marketing (Mailchimp, HubSpot), descriptive statistics, Google Ads, Python (pandas)
+
+Work Experience:
+Data Analyst Trainee, Vertex Infra (Jun 2025 - Dec 2025)
+- Wrote complex SQL joins and window functions to prepare datasets covering 58M transactions.
+- Grew organic traffic by 50% in 9 months through keyword research and on-page SEO.
+- Identified drop-off points in the customer funnel, leading to a 51% lift in checkout completion.
+
+Projects:
+- Excel financial model and dashboard for a small business.
+- Customer retention cohort analysis in Python and Tableau.
+
+Additional Information:
+- Automated weekly reporting with Python and scheduled queries, saving 14 hours per month.
+- Defined and documented 3 core KPIs adopted by the leadership team.
+- Ran 6 A/B tests on landing pages that improved conversion rate by 51%.
+- Built 4 Power BI dashboards tracking revenue and margin that replaced 24 manual Excel reports.
+- Planned and published 5 social posts per month, increasing engagement by 31%.
+- Launched email nurture flows in HubSpot that lifted open rates by 34%.

@@ -1,0 +1,30 @@
+Name: Mohammed Fernandez
+Contact: mohammed.fernandez76@mail.com | +91 9888235795 | Berlin, Germany | github.com/mohammed-fernandez76
+
+Summary:
+Early-career technologist with exposure to devops engineering and adjacent areas. Comfortable picking up new tools such as cost optimization and Python, and eager to move deeper into devops engineering roles while collaborating with cross-functional teams.
+
+Education:
+B.Sc. in Computer Networks, Pune Institute of Technology (2021-2025), GPA 6.9/10
+
+Skills:
+cost optimization, Python, Ansible, Kubernetes, Grafana, typing, Terraform, IAM, Bash, load balancing
+
+Experience:
+Junior DevOps Engineer | Ironclad Cyber | 2025-Present
+- Reduced monthly cloud bill by 34% via reserved instances and storage lifecycle policies.
+- Implemented serverless pipelines with Lambda and SQS processing 48k events per day.
+- Designed multi-AZ AWS architecture achieving 43% uptime for 11 production workloads.
+- Provisioned AWS infrastructure with Terraform, cutting environment setup from 6 days to 35 hours.
+
+Junior DevOps Engineer | Northwind Tech | 2024-2025
+- Migrated 57 on-prem servers to AWS with minimal downtime.
+- Provisioned AWS infrastructure with Terraform, cutting environment setup from 5 days to 58 hours.
+- Built CI/CD pipelines in GitHub Actions deploying 7 services with zero-downtime rollouts.
+- Designed multi-AZ AWS architecture achieving 14% uptime for 3 production workloads.
+
+Projects:
+- Ansible playbooks for automated Linux server setup.
+- CI/CD pipeline deploying a Flask app to Kubernetes.
+- Additional: Provisioned AWS infrastructure with Terraform, cutting environment setup from 5 days to 95 hours.
+- Additional: Migrated 8 on-prem servers to AWS with minimal downtime.

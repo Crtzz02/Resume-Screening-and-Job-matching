@@ -1,0 +1,30 @@
+Name: Hana Adeyemi
+Contact: hana.adeyemi16@gmail.com | +44 7191 388948 | Singapore | linkedin.com/in/hana-adeyemi16
+
+Summary:
+Recent graduate specializing in devops engineering. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in Jenkins, Terraform and Grafana. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+M.S. in Cloud Computing, University of Toronto (2022-2026), GPA 7.9/10
+
+Skills:
+Jenkins, Terraform, Grafana, Bash, Helm, Kubernetes, GitHub Actions, Ansible, AWS, SRE practices
+
+Experience:
+DevOps Intern | Vantage Digital | Jan 2025-Jun 2025
+- Built CI/CD pipelines in GitHub Actions deploying 11 services with zero-downtime rollouts.
+- Set up Prometheus and Grafana monitoring that reduced MTTR by 40%.
+- Defined SLOs and on-call runbooks, improving availability to 99.99%.
+
+Projects:
+- Ansible playbooks for automated Linux server setup.
+- CI/CD pipeline deploying a Flask app to Kubernetes.
+- Additional: Defined SLOs and on-call runbooks, improving availability to 99.96%.
+- Additional: Containerized 5 legacy applications with Docker.
+- Additional: Defined SLOs and on-call runbooks, improving availability to 99.911%.
+- Additional: Containerized 8 legacy applications with Docker.
+- Additional: Set up Prometheus and Grafana monitoring that reduced MTTR by 24%.
+- Additional: Defined SLOs and on-call runbooks, improving availability to 99.911%.
+- Additional: Defined SLOs and on-call runbooks, improving availability to 99.94%.
+- Additional: Set up Prometheus and Grafana monitoring that reduced MTTR by 29%.
+- Additional: Containerized 3 legacy applications with Docker.

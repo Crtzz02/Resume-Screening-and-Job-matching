@@ -1,0 +1,36 @@
+Name: Dmitri Joshi
+Contact: dmitri.joshi86@gmail.com | +44 7979 299232 | Singapore | github.com/dmitri-joshi86
+
+Summary:
+7-year professional specializing in data science. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in Tableau, SQL and scikit-learn. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.Sc. in Statistics, BITS Pilani (2015-2019), GPA 7.5/10
+
+Skills:
+Tableau, SQL, scikit-learn, data visualization, time-series forecasting, Python, pandas, R, hypothesis testing, Power BI
+
+Experience:
+Senior Data Scientist | Ironclad Cyber | 2024-Present
+- Wrote SQL pipelines transforming 52M rows into analysis-ready feature tables.
+- Built a churn prediction model with XGBoost reaching 23% AUC, helping retention save 59k USD annually.
+- Cleaned and imputed messy datasets, improving model stability and cutting manual work by 22%.
+- Applied survival analysis to estimate subscriber lifetime value.
+
+Data Scientist | Fathom AI | 2021-2024
+- Cleaned and imputed messy datasets, improving model stability and cutting manual work by 13%.
+- Created demand forecasting models that reduced forecast error by 20%.
+- Performed customer segmentation with k-means and presented findings to leadership.
+- Designed and analyzed 4 A/B tests, informing product decisions that lifted conversion by 32%.
+
+Junior Data Scientist | Meridian Fintech | 2019-2021
+- Applied survival analysis to estimate subscriber lifetime value.
+- Developed Tableau dashboards used weekly by 9 business stakeholders.
+- Built a churn prediction model with XGBoost reaching 33% AUC, helping retention save 88k USD annually.
+- Designed and analyzed 7 A/B tests, informing product decisions that lifted conversion by 17%.
+
+Projects:
+- House price prediction using gradient boosting and SHAP explanations.
+
+Certifications:
+- Google Data Analytics Certificate

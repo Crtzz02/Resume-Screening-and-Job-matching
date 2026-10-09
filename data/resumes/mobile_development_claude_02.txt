@@ -1,0 +1,27 @@
+Name: Yuki Silva
+Contact: yuki.silva31@mail.com | +91 9889966169 | Bengaluru, India | github.com/yuki-silva31
+
+Summary:
+Recent graduate specializing in mobile development. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in Swift, React Native and push notifications. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.Sc. in Software Engineering, Technical University of Munich (2022-2026), GPA 9.5/10
+
+Skills:
+Swift, React Native, push notifications, REST APIs, Room/Core Data, unit and UI testing, App Store deployment, Jetpack Compose, Flutter, Android Studio
+
+Experience:
+Mobile Developer Intern | Altair Solutions | Jan 2025-Jun 2025
+- Published and maintained 4 apps on Google Play and the App Store.
+- Implemented offline-first sync with Room and background workers.
+- Added UI tests that caught 75 regressions before release.
+
+Projects:
+- Expense tracker app with Kotlin, Room and Jetpack Compose.
+- Flutter recipe app with Firebase backend.
+- Additional: Developed Android features with Kotlin and Jetpack Compose used by 14k monthly users.
+- Additional: Cut app startup time by 16% through lazy initialization and profiling.
+- Additional: Built cross-platform Flutter modules shared by iOS and Android, saving 20% development effort.
+- Additional: Integrated Firebase authentication and push notifications reaching 76k devices.
+- Additional: Reduced app crash rate by 36% by fixing memory leaks and adding Crashlytics monitoring.
+- Additional: Built cross-platform Flutter modules shared by iOS and Android, saving 22% development effort.

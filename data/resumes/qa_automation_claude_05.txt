@@ -1,0 +1,28 @@
+Name: Amara Fernandez
+Contact: amara.fernandez45@proton.me | +44 7589 512536 | New York, NY, USA | github.com/amara-fernandez45
+
+Summary:
+Early-career technologist with exposure to qa automation and adjacent areas. Comfortable picking up new tools such as Python and JMeter, and eager to move deeper into qa automation roles while collaborating with cross-functional teams.
+
+Education:
+B.E. in Electronics, City Technical College (2022-2026), GPA 8.9/10
+
+Skills:
+Python, JMeter, React, responsive design, typing, Playwright, Next.js, exploratory testing, JavaScript (ES6+), BDD with Cucumber
+
+Experience:
+QA Intern | Pixelforge Studio | Jan 2025-Jun 2025
+- Built reusable React component library used across 4 products, speeding feature delivery by 30%.
+- Migrated a legacy jQuery codebase to React and TypeScript with 95k lines refactored.
+- Created Playwright end-to-end suites running in CI in 2 minutes.
+
+Projects:
+- Postman collection and Newman pipeline for a public API.
+- Performance test scripts with JMeter.
+- Additional: Implemented WCAG 2.1 AA accessibility fixes, raising Lighthouse accessibility score to 22.
+- Additional: Built Selenium and TestNG automation covering 13% of regression scenarios.
+- Additional: Created Playwright end-to-end suites running in CI in 5 minutes.
+- Additional: Automated API tests with REST Assured, finding 65 defects before release.
+- Additional: Built Selenium and TestNG automation covering 36% of regression scenarios.
+- Additional: Created Playwright end-to-end suites running in CI in 10 minutes.
+- Additional: Migrated a legacy jQuery codebase to React and TypeScript with 80k lines refactored.

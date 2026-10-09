@@ -1,0 +1,33 @@
+Name: Hiro Petrova
+Contact: hiro.petrova16@gmail.com | +44 7975 204390 | Dublin, Ireland | github.com/hiro-petrova16
+
+Summary:
+1-year professional specializing in data science. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in Tableau, hypothesis testing and data visualization. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+M.Sc. in Applied Statistics, National University of Singapore (2021-2025), GPA 7.9/10
+
+Skills:
+Tableau, hypothesis testing, data visualization, statistical modeling, pandas, R, SQL, Python, Power BI, A/B testing
+
+Experience:
+Junior Data Scientist | Atlas Robotics | 2025-Present
+- Created demand forecasting models that reduced forecast error by 18%.
+- Developed Tableau dashboards used weekly by 5 business stakeholders.
+- Cleaned and imputed messy datasets, improving model stability and cutting manual work by 17%.
+- Applied survival analysis to estimate subscriber lifetime value.
+
+Junior Data Scientist | Vantage Digital | 2024-2025
+- Cleaned and imputed messy datasets, improving model stability and cutting manual work by 45%.
+- Applied survival analysis to estimate subscriber lifetime value.
+- Developed Tableau dashboards used weekly by 2 business stakeholders.
+- Performed customer segmentation with k-means and presented findings to leadership.
+
+Projects:
+- Time-series forecast of energy consumption with Prophet.
+- House price prediction using gradient boosting and SHAP explanations.
+
+Certifications:
+- Microsoft Certified: Azure Data Scientist Associate
+- Additional: Applied survival analysis to estimate subscriber lifetime value.
+- Additional: Developed Tableau dashboards used weekly by 6 business stakeholders.

@@ -1,0 +1,27 @@
+Name: Nadia Miller
+Contact: nadia.miller77@proton.me | +1 (792) 329-6832 | Hyderabad, India | github.com/nadia-miller77
+
+Summary:
+Recent graduate specializing in ai engineering. Passionate about building reliable, well-tested systems and learning quickly, with hands-on experience in LangChain, vector databases (FAISS, Pinecone) and Python. Seeking to contribute to a collaborative engineering team and grow technical depth.
+
+Education:
+B.Tech in Computer Science, BITS Pilani (2022-2026), GPA 8.2/10
+
+Skills:
+LangChain, vector databases (FAISS, Pinecone), Python, CUDA basics, PyTorch, AWS SageMaker, Docker, MLflow, prompt engineering, FastAPI
+
+Experience:
+AI Engineering Intern | Vantage Digital | Jan 2025-Jun 2025
+- Fine-tuned a transformer model with LoRA, improving task accuracy by 45% over the baseline.
+- Implemented an embedding pipeline indexing 43M documents into a vector database.
+- Designed an evaluation harness measuring hallucination rate and answer relevance across 83 test suites.
+
+Projects:
+- Image classification app using ResNet transfer learning deployed on Hugging Face Spaces.
+- Sentiment analysis API with a fine-tuned BERT model and Docker packaging.
+- Additional: Trained a computer vision classifier on 93k labeled images reaching 26% F1.
+- Additional: Designed an evaluation harness measuring hallucination rate and answer relevance across 46 test suites.
+- Additional: Implemented an embedding pipeline indexing 61M documents into a vector database.
+- Additional: Set up MLflow experiment tracking and model registry adopted by 11 engineers.
+- Additional: Deployed models as FastAPI microservices on Kubernetes with automated canary rollouts.
+- Additional: Reduced inference cost by 34% through quantization and batching of PyTorch models.

@@ -1,0 +1,29 @@
+Name: Chidi Farooq
+Contact: chidi.farooq@hotmail.com | +1 351-805-3741 | Vancouver, Canada | linkedin.com/in/chidi-farooq
+
+Profile:
+Early-career professional with working knowledge of DevOps and cloud and adjacent disciplines. Has used data storytelling and infrastructure as code in recent roles and is keen to specialize further in DevOps and cloud.
+
+Academic Background:
+B.Sc. in Networking - Symbiosis International (2022-2025), CGPA 8.6/10
+
+Key Competencies:
+data storytelling, infrastructure as code, ELK stack, photography, AWS (EC2, S3, EKS), cohort analysis, dashboarding, Prometheus, Looker Studio, descriptive statistics
+
+Professional Experience:
+Junior Data Analyst, Granite Financial (2025 - Present)
+- Codified 19 cloud resources in Terraform, removing configuration drift across 9 environments.
+- Reduced monthly AWS spend by 40% using spot instances, autoscaling and rightsizing.
+- Built 7 Power BI dashboards tracking revenue and margin that replaced 95 manual Excel reports.
+- Built GitLab CI pipelines that shipped 9 services to Kubernetes with automated rollbacks.
+
+Projects:
+- CI/CD pipeline for a Node.js app on Azure DevOps with staged environments.
+- Terraform-provisioned EKS cluster with a sample app and GitOps deployment.
+
+Additional Information:
+- Identified drop-off points in the customer funnel, leading to a 42% lift in checkout completion.
+- Cut average deployment time from 9 hours to 12 minutes through pipeline automation.
+- Implemented centralized logging with the ELK stack for 15 microservices.
+- Defined and documented 11 core KPIs adopted by the leadership team.
+- Automated weekly reporting with Python and scheduled queries, saving 32 hours per month.
